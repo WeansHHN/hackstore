@@ -1,0 +1,249 @@
+bạn hãy chỉnh sửa lại css s3,s2 sao cho nó đẹp và cân đối nhất nhé
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>HackStore-HHNiOS</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha256-aAr2Zpq8MZ+YA/D6JtRD3xtrwpEz2IqOS+pWD/7XKIw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="/assets/css/styles.css">
+    
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #000000d0;
+            margin: 0;
+            padding: 0;
+        }
+
+        .navbar {
+            background: linear-gradient(to right, #ff4b1f, #1f8aff);
+            margin-bottom: 10px;
+        }
+
+        .navbar-brand {
+           color: #fff;
+        }
+
+        .btn-download {
+            margin-top: 10px;
+            background: linear-gradient(to right, #ff4b1f, #1f8aff);
+            color: #fff;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 20px;
+            font-weight: bold;
+            cursor: pointer;
+            transition: background 0.3s;
+        }
+
+        .btn-download:hover {
+            background: linear-gradient(to right, #ff4b1f, #1f8aff);
+        }
+
+        .hero-jumbo {
+            background: url('https://images7.alphacoders.com/133/1334619.jpeg') no-repeat center center;
+            background-size: cover;
+            text-align: center;
+            color: #fff;
+            padding: 100px 0;
+        }
+
+        .hero-text {
+            font-size: 36px;
+            font-weight: bold;
+            margin: 10px 0;
+            background: linear-gradient(to right, #ff3300, #007bff);
+            -webkit-background-clip: text;
+            background-clip: text;
+            color: transparent;
+        }
+
+        .hero-subtext {
+            font-size: 20px;
+            color: #003bfcc5;
+        }
+
+        .hero-versions {
+            background: linear-gradient(to right, #ff7300, #ff0000);
+            -webkit-background-clip: text;
+            background-clip: text;
+            color: transparent; 
+        }
+
+        .styles {
+            display: center;
+            justify-content: center;
+            margin: 0px 0;
+            width: 20px;
+        }
+
+        classic, Sugarfree, Mango {
+            background: linear-gradient(to right, #ff4b1f, #1f8aff);
+            color: #fff;
+            padding: 10px 20px;
+            border-radius: 5px;
+            margin: 0 10px;
+        }
+
+        .iphonemcokup img {
+            width: 100%;
+            max-width: 500px;
+            display: block;
+            margin: 0 auto;
+            margin-top: -100px;
+        }
+
+        .s1 {
+            background-color: #00000091;
+            padding: 20px;
+            text-decoration: none;
+            border-radius: 20px;
+            color: #fff;
+        }
+
+        .s1 h2 {
+            color: #333;
+        }
+
+
+
+        .container.text-center h2 {
+            margin-top: 40px;
+        }
+
+        .download h3 {
+            font-size: 24px;
+            background: linear-gradient(to right, #ff4b1f, #1f8aff);
+            -webkit-background-clip: text;
+            background-clip: text;
+            color: transparent;
+        }
+
+        .download ul {
+            list-style-type: disc;
+        }
+
+        .btn-download {
+            background: linear-gradient(to right, #ff4b1f, #1f8aff);
+            color: #fff;
+        }
+
+        .downloads-button {
+            display: inline-block;
+            padding: 10px 10px;
+            background: linear-gradient(to right, #ff4b1f, #1f8aff);
+            color: #fff;
+            border: none;
+            border-radius: 20px;
+            font-weight: bold;
+            cursor: pointer;
+        }
+
+        .downloads-button:hover {
+            background: linear-gradient(to right, #ff1f1f, #1f6cff);
+        }
+
+        .rounded-icon {
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            overflow: hidden;
+        }
+    </style>
+</head>
+<body>
+    <header class="hero-jumbo">
+        <nav class="navbar navbar-light fixed-top">
+            <div class="container">
+                <a class="navbar-brand">
+                    <h2>HackStore</h2>
+                </a>
+            </div>
+        </nav>
+        <section id="hero-container">
+            <div class="header-box">
+                <h1 class="hero-text">
+                    <a>HackStore</a>
+                </h1>
+                <p class="lead hero-subtext">Online hacking game store.</p>
+                <p class="lead hero-versions">Supports iOS 14.1-New version.</p>
+                <button href="#" class="downloads-button" onclick="scrollToSection('download')">
+                    <div id="Mango">Download</div>
+                </button>
+            </div>
+        </section>
+    </header>
+
+    <section>
+        <figure class="iphonemcokup">
+            <img src="images/iphones.png" alt="mockups">
+        </figure>
+        <div class="s1">
+            <div class="container">
+                <h8><b>Advantages of HackStore:</b></h8>
+                <br>
+                <li>Download Hack 3rd Party Games Using DNS.</li>
+                <li>User interface easy to use.</li>
+                <li>Light application size.</li>
+            </div>
+        </div>
+    </section>
+    <br>
+    <section>
+        <div class="container s2">
+            <h3 class="download h3" style="color: #fff;">Download:</h3>
+            <br>
+            <div class="row download">
+                <div class="col-md-4">
+                    <h3>Beta 1.0</h3>
+                    <p class="h6" style="color: #fff;">Released October 30, 2023</p>
+                    <p class="mt-4 d-none d-md-block small" aria-hidden="true">
+                        <a href="/releases/">Older Releases</a>
+                    </p>
+                </div>
+                <article class="col-md-8" style="color: #fff;">
+                    <ul>
+                        <li>Beta version 1 with N* bugs :))</li>
+                    </ul>
+                    <span>
+                        <a href="" class="btn btn-download mb-1">
+                            Coming soon
+                        </a>
+                    </span>
+                </article>
+            </div>
+        </div>
+    </section>
+    <br>
+    <br>
+    <section>
+        <div class="container s3">
+            <h3 class="download h3" style="color: #fff;">Credits:</h3>
+            <br>
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="developer-info">
+                        <div class="rounded-icon">
+                            <img src="/images/ninh.jpg" alt="Developer 1 Icon" width="50" height="50">
+                        </div>
+                        <h4 style="color: #ccc;">Weans (HHNiOS)</h4>
+                        <p style="color: #ccc;">Main development, Website</p>
+                    </div>
+                </div>
+                <br>
+                <div class="col-md-6">
+                    <div class="developer-info">
+                        <div class="rounded-icon">
+                            <img src="/images/phong.jpg" alt="Developer 2 Icon" width="50" height="50">
+                        </div>
+                        <h4 style="color: #ccc;">DunkeyFong (Trọng Phong)</h4>
+                        <p style="color: #ccc;">Fix bugs and support</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <br>
+</body>
+</html>
