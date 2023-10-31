@@ -1,0 +1,15 @@
+{
+    "apps": [
+        {
+            "iconURL": "https://dunkeyyfong.github.io/info/img/picart.png",
+            "name": "Esign Test",
+            "description": "Esign Test thôi xem đb :>",
+            "downloadURL": "itms-services://?action=download-manifest&url=https://hhnios.site/myapp/esigntest.plist"
+        }, {
+            "iconURL": "...",
+            "name": "App 2",
+            "description": "Test 2",
+            "downloadURL": "https://example.com/app2"
+        }
+    ]
+}
