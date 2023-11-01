@@ -1,15 +1,24 @@
 {
     "apps": [
         {
-            "iconURL": "https://dunkeyyfong.github.io/info/img/picart.png",
-            "name": "Esign Test",
-            "description": "Esign Test thôi xem đb :>",
-            "downloadURL": "itms-services://?action=download-manifest&url=https://hhnios.site/myapp/esigntest.plist"
-        }, {
-            "iconURL": "...",
-            "name": "App 2",
-            "description": "Test 2",
-            "downloadURL": "https://example.com/app2"
+            "iconURL": "https://hackstore.hhnios.site/Other/icon/LQ.png",
+            "name": "Liên Quân Mobile",
+            "description": "Liên Quân Mobile Mod Menu H5GG",
+            "downloadURL": "itms-services://?action=download-manifest&url=https://hackstore.hhnios.site/Other/plist/LQH5GG.plist"
+        },
+
+        {
+            "iconURL": "https://hackstore.hhnios.site/Other/icon/FF.png",
+            "name": "Free Fire Hack",
+            "description": "Free Fire Mod Menu H5GG, iGG Menu",
+            "downloadURL": "itms-services://?action=download-manifest&url=https://hackstore.hhnios.site/Other/plist/FFHACK.plist"
+        },
+
+        {
+            "iconURL": "https://hackstore.hhnios.site/Other/icon/..",
+            "name": "Liên Quân Mobile",
+            "description": "Liên Quân Mobile Mod Menu H5GG",
+            "downloadURL": "itms-services://?action=download-manifest&url=https://hackstore.hhnios.site/Other/plist/esigntest.plist"
         }
     ]
 }
