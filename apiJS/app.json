@@ -1,27 +1,27 @@
 {
     "apps": [
         {
-            "iconURL": "https://github.com/WeansHHN/troll/blob/main/icon/Appstore++.png?raw=true",
-            "name": "AppStore++",
-            "version": "1",
-            "description": "Tinh chỉnh AppStore++ cho TrollStore. Cho phép bạn hạ cấp các ứng dụng đã cài đặt",
-            "downloadURL": "https://github.com/CokePokes/AppStorePlus-TrollStore/releases/download/v1.2-1/AppStore++_TrollStore_v1.0.3-2.ipa"
+            "iconURL": "https://raw.githubusercontent.com/WeansHHN/hackstore/main/apiJS/Image/fb.png",
+            "name": "Facebook Wofl",
+            "version": "380.0",
+            "description": "• Tải video trên facebook bằng cách nhấn giữ vào video đó và chọn Saver Media\n• Chặn mọi quảng cáo xuất hiện làm phiền bạn\n• vvv…. Các bạn tự trải nghiệm để biết những thứ thú vị từ phiên bản này nhé !",
+            "downloadURL": "https://download1507.mediafire.com/xx1d3x82j8jg4ABEHUnKdoWuA14kwnqIOgDxu-YWjdEI8Gyz5LCnjZX1dDIL_VByPQfvViBbqGskwDDnaxWKQLUCDoDtxGXJZhCsKQo123IcooBaJOOBQ2Z4FThiof0vm5xWFFAcCpbwxtTklJljuBSsjJjN-7U8F_fMjeSX-d-AXQ/ff38tctazsayt8i/Facebook.V.380.0.%2B.Wolf.ipa"
         },
 
         {
-            "iconURL": "https://github.com/WeansHHN/troll/blob/main/icon/TrollSpeed.png?raw=true",
-            "name": "TrollSpeed",
-            "version": "1",
+            "iconURL": "https://raw.githubusercontent.com/WeansHHN/hackstore/main/apiJS/Image/msg2.png",
+            "name": "Messenger Shark",
+            "version": "311.0",
             "description": "Hiển thị tốc độ tải lên và tải xuống bên dưới thanh trạng thái. Dựa trên TrollStore của opa334.",
-            "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.8.2/TrollSpeed_1.8.2.tipa"
+            "downloadURL": "https://download1530.mediafire.com/4tduvynn01gg3hH1L01Aqu8UMy_RPs68Eenil7ryjho3IaGQExchz0LOmzCd7pMZrW3YP3fakuJhgFvw4akSUu2nuOXvQeUhjuLQDoezncx4Og89CvWkLw319-2UEksojIBW9gOpMF_5tE5QD-Us966wzqU2bUG9QLOGS24yua2oNpI/gaix3bfn32bp2pf/Messenger.311.0.Shark.v2.2.1.ipa"
         },
 
         {
-            "iconURL": "https://github.com/leminlimez/Helium/blob/main/src/assets/credits/leminlimez.png?raw=true",
-            "name": "Helium",
-            "version": "1",
+            "iconURL": "https://raw.githubusercontent.com/WeansHHN/hackstore/main/apiJS/Image/yt.png",
+            "name": "uYouPlus",
+            "version": "17.35.3_2.1",
             "description": "Helium là một hệ thống tiện ích Thanh trạng thái mới dành cho TrollStore và các thiết bị đã bẻ khóa.",
-            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/Helium_1.0.ipa"
+            "downloadURL": "https://download1518.mediafire.com/62fa9pu9q5mgeZbtN7sceVo8vWQ4FtFJbS8iqi2cvJ6XQEAiUY-GBvMeZnYE4zyEQwto8r9IuTvY7_fEXAJWWxWIxZQJL8cfDaLXgeI5CZLpuyMUpNByr8psL309Jf3g4iEu8TDg0msIS5tKiG1lAhr4WP2CGpUahbo0XdMLOgqMIA/z8xfcjnvbfvbyi4/uYouPlus_17.35.3_2.1.ipa"
         }
     ]
 }
