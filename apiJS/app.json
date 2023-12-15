@@ -49,6 +49,14 @@
         },
 
         {
+            "iconURL": "https://hhnipa.github.io/img/spt.png",
+            "name": "Spectra",
+            "version": "1.5.5",
+            "description": "IPA không mất phí.",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/Spectra_HHN_1.5.5.1.ipa"
+        },
+
+        {
             "iconURL": "https://hhnipa.github.io/img/adguard.png",
             "name": "AdGuard Pro",
             "version": "4.4.0",
@@ -57,4 +65,5 @@
         }
     ]
 }
+
 
