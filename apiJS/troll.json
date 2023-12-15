@@ -9,6 +9,22 @@
         },
 
         {
+            "iconURL": "https://raw.githubusercontent.com/WeansHHN/hackstore/main/apiJS/Image/filza.png",
+            "name": "Filza No URL",
+            "version": "4.0",
+            "description": "Ứng dụng Filza cung cấp cho bạn khả năng truy cập vào hệ thống tệp của iPhone và thêm hoặc xóa các tệp trên thiết bị của bạn.",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/Filza-4.0.ipa"
+        },
+
+        {
+            "iconURL": "https://raw.githubusercontent.com/WeansHHN/hackstore/main/apiJS/Image/filza.png",
+            "name": "Filza MDC",
+            "version": "4.0",
+            "description": "Ứng dụng Filza cung cấp cho bạn khả năng truy cập vào hệ thống tệp của iPhone và thêm hoặc xóa các tệp trên thiết bị của bạn.",
+            "downloadURL": "https://github.com/dbmz502/Filza_MacDirtyCow/releases/download/1.0.1/Filza_4.0_Patched_15.0-16.1.2.ipa"
+        },
+
+        {
             "iconURL": "https://github.com/WeansHHN/troll/blob/main/icon/Appstore++.png?raw=true",
             "name": "AppStore++",
             "version": "1.0.3-2",
