@@ -3,7 +3,7 @@
         {
             "iconURL": "https://github.com/WeansHHN/troll/blob/main/icon/Appstore++.png?raw=true",
             "name": "AppStore++",
-            "version": "1",
+            "version": "1.0.3-2",
             "description": "Tinh chỉnh AppStore++ cho TrollStore. Cho phép bạn hạ cấp các ứng dụng đã cài đặt",
             "downloadURL": "https://github.com/CokePokes/AppStorePlus-TrollStore/releases/download/v1.2-1/AppStore++_TrollStore_v1.0.3-2.ipa"
         },
@@ -11,7 +11,7 @@
         {
             "iconURL": "https://github.com/WeansHHN/troll/blob/main/icon/TrollSpeed.png?raw=true",
             "name": "TrollSpeed",
-            "version": "1",
+            "version": "1.8.2",
             "description": "Hiển thị tốc độ tải lên và tải xuống bên dưới thanh trạng thái. Dựa trên TrollStore của opa334.",
             "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.8.2/TrollSpeed_1.8.2.tipa"
         },
@@ -19,9 +19,185 @@
         {
             "iconURL": "https://github.com/leminlimez/Helium/blob/main/src/assets/credits/leminlimez.png?raw=true",
             "name": "Helium",
-            "version": "1",
+            "version": "1.0",
             "description": "Helium là một hệ thống tiện ích Thanh trạng thái mới dành cho TrollStore và các thiết bị đã bẻ khóa.",
             "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/Helium_1.0.ipa"
+        },
+
+        {
+            "iconURL": "https://github.com/WeansHHN/troll/blob/main/icon/06600550-35F6-4057-A8B7-B55952C78C48.png?raw=true",
+            "name": "LocSim",
+            "version": "1.3.2",
+            "description": "Các nhà phát triển đang sử dụng trình cài đặt TrollStore để phát hành các ứng dụng bao gồm các chỉnh sửa hệ thống hữu ích cho iOS 15 mà không cần bẻ khóa. Một trong những cải tiến đáng chú ý nhất hiện có là Mô phỏng vị trí, một công cụ đặc biệt cung cấp nhiều tính năng, bao gồm khả năng đặt vị trí GPS giả trên thiết bị iOS 15.",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/LocSim1.3.2_TS.ipa"
+        },
+
+        {
+            "iconURL": "https://github.com/leminlimez/SecondHand/blob/main/SecondHand/Assets.xcassets/AppIcon.appiconset/SecondHand-3.png?raw=true",
+            "name": "Second Hand",
+            "version": "1.3",
+            "description": "Thêm giây và ngày vào đồng hồ trên thanh trạng thái trên các thiết bị TrollStore Tương thích với iOS 14.0-15.4.1",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/Second.Hand_1.3.ipa"
+        },
+
+        {
+            "iconURL": "https://pbs.twimg.com/profile_images/1120870317319053313/x7u1wDn5_400x400.jpg",
+            "name": "Misaka v3.2.6Pre",
+            "version": "3.2.6",
+            "description": "Ứng dụng tinh chỉnh iphone, khai thác lỗ hổng bảo mật KFD và MDC.",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/misaka-v3.2.6-Pre.ipa"
+        },
+
+        {
+            "iconURL": "https://github.com/WeansHHN/troll/blob/main/icon/C7E22BD4-17C9-4910-BAB6-53FC38C96DB4.png?raw=true",
+            "name": "Picasso v3",
+            "version": "3",
+            "description": "Ứng dụng tinh chỉnh iphone, khai thác lỗ hổng bảo mật KFD và MDC.",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/Picasso_v3.ipa"
+        },
+
+        {
+            "iconURL": "https://github.com/WeansHHN/troll/blob/main/icon/ScreenShotx.png?raw=trueraw=true",
+            "name": "ScreenshotX",
+            "version": "1.0",
+            "description": "ScreenshotX là ứng dụng ghép ảnh hình thức chụp màn hình , bạn có thể chọn Model các dòng iphone từ 6s đến 14 ProMax với nhiều phong cách khác nhau.",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/ScreenshotX_1.0.ipa"
+        },
+
+        {
+            "iconURL": "https://senumy.com/wp-content/uploads/2023/10/PureKFD_logo.png",
+            "name": "PureKFD",
+            "version": "NULL",
+            "description": "Ứng dụng tinh chỉnh iphone, khai thác lỗ hổng bảo mật KFD và MDC.",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/PureKFD.ipa"
+        },
+
+        {
+            "iconURL": "https://hhnipa.github.io/img/tool.png",
+            "name": "TrollTool",
+            "version": "3.0",
+            "description": "Ứng dụng tinh chỉnh iphone, sử dụng Trollstore.",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/TrollTools.ipa"
+        },
+
+        {
+            "iconURL": "https://raw.githubusercontent.com/WeansHHN/hackstore/main/apiJS/Image/trollbox.png",
+            "name": "TrollBox",
+            "version": "Beta 0.2",
+            "description": "Ứng dụng tinh chỉnh iphone, khai thác lỗ hổng bảo mật KFD và MDC.",
+            "downloadURL": "https://github.com/c22dev/TrollBox/releases/download/0.2/TrollBox.tipa"
+        },
+
+        {
+            "iconURL": "https://hhnipa.github.io/img/airtroll.png",
+            "name": "AirTroller",
+            "version": "1.1.1",
+            "description": "AirDrop spam/làm tràn để troll bạn bè",
+            "downloadURL": "https://github.com/sourcelocation/AirTroller/releases/download/1.1.1/AirTroller-1.1.1.tipa"
+        },
+
+        {
+            "iconURL": "https://avatars.githubusercontent.com/u/74475614?v=4",
+            "name": "H5GG",
+            "version": "NULL",
+            "description": "H5GG - một công cụ gian lận iOS dành cho API JavaScript và giao diện người dùng HTML5",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/h5gg.ipa"
+        },
+
+        {
+            "iconURL": "https://github.com/s8ngyu/red-dot/blob/main/reddot/Assets.xcassets/AppIcon.appiconset/imgonline-com-ua-resize-0z0l5nkgeDpRMkf.jpg?raw=true",
+            "name": "RedDot",
+            "version": "NULL",
+            "description": "Đổi màu badget thông báo trên icon app.",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/RedDot_TS.ipa"
+        },
+
+        {
+            "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7JmQl7Km3aLSe0YYtz1zeB0r6bQibmIU0fA&usqp=CAU",
+            "name": "AppsManager",
+            "version": "1.0",
+            "description": "Trình quản lí ứng dụng, sao lưu và khôi phục dữ liệu App. Đã crack không giới hạn App.",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/AppsManager.Trollstore.2.ipa"
+        },
+
+        {               
+            "iconURL": "https://github.com/WeansHHN/troll/blob/main/icon/5105D798-F86F-4AC7-8C1F-48A726906E6D.png?raw=true",
+            "name": "Flex 3 Beta",
+            "version": "NULL",
+            "description": "Kho chứa các Patch và tự tạo Patch",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/Flex3.ipa"
+        },
+
+        {
+            "iconURL": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Terminalicon2.png",
+            "name": "Terminal",
+            "version": "7",
+            "description": "Terminal",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/Terminal-7.ipa"
+        },
+
+        {
+            "iconURL": "https://github.com/WeansHHN/troll/blob/main/icon/AppDumps.png?raw=true",
+            "name": "AppsDump2",
+            "version":"2.0.2",
+            "description": "Ứng dụng xuất ipa",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/AppDump2.tipa"
+        },
+
+        {
+            "iconURL": "https://github.com/powenn/ModMyIPA/blob/main/ModMyIPA/Assets.xcassets/AppIcon.appiconset/1024.png?raw=true",
+            "name": "ModMyIPA",
+            "version": "1.0.2",
+            "description": "Chỉnh sửa và thay dổi IPA",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/ModMyIPA-1.0.2.ipa"
+        },
+
+        {
+            "iconURL": "https://github.com/WeansHHN/troll/blob/main/icon/Trolldec.png?raw=true",
+            "name": "Trolldecrytor",
+            "version": "NULL",
+            "description": "Ứng dụng xuất IPA",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/TrollDecryptor.tipa"
+        },
+        
+        {
+            "iconURL": "https://user-images.githubusercontent.com/52459150/215552092-9dc1e029-da35-43da-867f-17279e3dc180.png",
+            "name": "Cowabubga",
+            "version": "10.3.2",
+            "description": "Ứng dụng tinh chỉnh máy của bạn (Ver 10.3.2)",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/Cowabunga_10.3.2.ipa"
+        },
+
+        {
+            "iconURL": "https://github.com/WeansHHN/troll/blob/main/icon/Tssaver.jpeg",
+            "name": "Tsssaver",
+            "version": "NULL",
+            "description": "Ứng dụng lưu SHSH blobs",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/tsssaver.ipa"
+        },
+
+        {
+            "iconURL": "https://repo.packix.com/media/com.ikilledappl3.theostips/icon.png",
+            "name": "Theos Tips",
+            "version": "1.0",
+            "description": "Hướng dẫn sử dụng Theos",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/theostips_TS.ipa"
+        },
+
+        {
+            "iconURL": "https://raw.githubusercontent.com/Skittyblock/WallpaperSetter/main/WallpaperSetter/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5%402x.png",
+            "name": "WallpapperSetter",
+            "version":"NULL",
+            "description": "Wallpapper",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/WallpaperSetter_TS.ipa"
+        },
+
+        {
+            "iconURL": "https://github.com/WeansHHN/troll/blob/main/icon/Wifiscanner.png",
+            "name": "Wifi Scanner",
+            "version":"NULL",
+            "description": "Tìm kiếm Wifi",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/wifiscanner_TS.ipa"
         }
     ]
 }
