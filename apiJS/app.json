@@ -1,10 +1,26 @@
 {
     "apps": [
         {
+            "iconURL": "https://hhnipa.github.io/img/esign.png",
+            "name": "Esign",
+            "version": "4.8.2",
+            "description": "Ứng dụng sign IPA",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/esign_4.8.2_unsigned.ipa"
+        },
+
+        {
+            "iconURL": "https://hhnipa.github.io/img/gbox.png",
+            "name": "Gbox",
+            "version": "4.6",
+            "description": "Ứng dụng sign IPA",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/GBox_v4.6.ipa"
+        },
+
+        {
             "iconURL": "https://raw.githubusercontent.com/WeansHHN/hackstore/main/apiJS/Image/fb.png",
             "name": "Facebook Wolf",
             "version": "380.0",
-            "description": "• Tải video trên facebook bằng cách nhấn giữ vào video đó và chọn Saver Media\n• Chặn mọi quảng cáo xuất hiện làm phiền bạn\n• vvv…. Các bạn tự trải nghiệm để biết những thứ thú vị từ phiên bản này nhé !",
+            "description": "- Tải video trên facebook bằng cách nhấn giữ vào video đó và chọn Saver Media\n- Chặn mọi quảng cáo xuất hiện làm phiền bạn\n- vvv…. Các bạn tự trải nghiệm để biết những thứ thú vị từ phiên bản này nhé !",
             "downloadURL": "https://github.com/34306/TrollStoreiPA/releases/download/TS_DailyiPA/Facebook.V.380.0.+.Wolf.ipa"
         },
 
@@ -62,8 +78,22 @@
             "version": "4.4.0",
             "description": "Chặn quảng cáo.",
             "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/AdGuard.Pro_4.4.0_1672794128.ipa"
+        },
+
+        {
+            "iconURL": "https://hhnipa.github.io/img/vlc.png",
+            "name": "Voloco",
+            "version": "7.7.1",
+            "description": "Unlockpro App.",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/Voloco_7.7.1_1672193894.ipa"
+        },
+
+        {
+            "iconURL": "https://play-lh.googleusercontent.com/Ej1ciFh7aZSqmK0XaPQNMBSE2xTTvgp4KL7P90AoazDGHQqLN4okunVigx3FoVhs_A8=w240-h480-rw",
+            "name": "InstartBio Pro",
+            "version": "3.9.4",
+            "description": "Mở Full dự án và 1 số tính năng khác.",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/LinkInBio++_3.9.4.ipa"
         }
     ]
 }
-
-
