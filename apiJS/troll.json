@@ -1,6 +1,14 @@
 {
     "apps": [
         {
+            "iconURL": "https://pbs.twimg.com/profile_images/1120870317319053313/x7u1wDn5_400x400.jpg",
+            "name": "Misaka v3.2.6Pre",
+            "version": "3.2.6",
+            "description": "Ứng dụng tinh chỉnh iphone, khai thác lỗ hổng bảo mật KFD và MDC.",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/misaka-v3.2.6-Pre.ipa"
+        },
+
+        {
             "iconURL": "https://github.com/WeansHHN/troll/blob/main/icon/Appstore++.png?raw=true",
             "name": "AppStore++",
             "version": "1.0.3-2",
@@ -41,27 +49,11 @@
         },
 
         {
-            "iconURL": "https://pbs.twimg.com/profile_images/1120870317319053313/x7u1wDn5_400x400.jpg",
-            "name": "Misaka v3.2.6Pre",
-            "version": "3.2.6",
-            "description": "Ứng dụng tinh chỉnh iphone, khai thác lỗ hổng bảo mật KFD và MDC.",
-            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/misaka-v3.2.6-Pre.ipa"
-        },
-
-        {
             "iconURL": "https://github.com/WeansHHN/troll/blob/main/icon/C7E22BD4-17C9-4910-BAB6-53FC38C96DB4.png?raw=true",
             "name": "Picasso v3",
             "version": "3",
             "description": "Ứng dụng tinh chỉnh iphone, khai thác lỗ hổng bảo mật KFD và MDC.",
             "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/Picasso_v3.ipa"
-        },
-
-        {
-            "iconURL": "https://github.com/WeansHHN/troll/blob/main/icon/ScreenShotx.png?raw=trueraw=true",
-            "name": "ScreenshotX",
-            "version": "1.0",
-            "description": "ScreenshotX là ứng dụng ghép ảnh hình thức chụp màn hình , bạn có thể chọn Model các dòng iphone từ 6s đến 14 ProMax với nhiều phong cách khác nhau.",
-            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/ScreenshotX_1.0.ipa"
         },
 
         {
@@ -198,6 +190,22 @@
             "version":"NULL",
             "description": "Tìm kiếm Wifi",
             "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/wifiscanner_TS.ipa"
+        },
+
+        {
+            "iconURL": "https://raw.githubusercontent.com/haxi0/TrollBoard/main/TrollBoard-modified.png",
+            "name": "TrollBoard",
+            "version":"NULL",
+            "description": "Cài theme hỗ trợ qua Trollstore",
+            "downloadURL": "https://github.com/haxi0/TrollBoard/releases/download/1.0/TrollBoard-1.0.ipa"
+        },
+
+        {
+            "iconURL": "https://camo.githubusercontent.com/86a5821553f6e068ad5240d3a54a39b985c91d1a8c849087c76f2cc5bc1dca52/68747470733a2f2f692e6962622e636f2f6d4879423532562f61707069636f6e2d6d6f6469666965642e706e67",
+            "name": "Anonycord",
+            "version":"1.2",
+            "description": "Trình ghi video không có bản xem trước được viết bằng Swift cho iOS",
+            "downloadURL": "https://github.com/c22dev/Anonycord/releases/download/1.2/Anonycord.ipa"
         }
     ]
 }
