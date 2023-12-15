@@ -2,10 +2,10 @@
     "apps": [
         {
             "iconURL": "https://pbs.twimg.com/profile_images/1120870317319053313/x7u1wDn5_400x400.jpg",
-            "name": "Misaka v3.2.6Pre",
-            "version": "3.2.6",
+            "name": "Misaka",
+            "version": "3.3.6 Beta",
             "description": "Ứng dụng tinh chỉnh iphone, khai thác lỗ hổng bảo mật KFD và MDC.",
-            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/misaka-v3.2.6-Pre.ipa"
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/misaka-v3.3.6.ipa"
         },
 
         {
@@ -222,6 +222,14 @@
             "version":"1.2",
             "description": "Trình ghi video không có bản xem trước được viết bằng Swift cho iOS",
             "downloadURL": "https://github.com/c22dev/Anonycord/releases/download/1.2/Anonycord.ipa"
+        },
+
+        {
+            "iconURL": "https://github.com/haxi0/KillMyOTA/blob/master/KillMyOTA-modified.png",
+            "name": "KillMyOTA",
+            "version":"1.1",
+            "description": "Chặn cập nhật iOS cho MDC",
+            "downloadURL": "https://github.com/haxi0/KillMyOTA/releases/download/1.1/KillMyOTA-1.1.ipa"
         }
     ]
 }
