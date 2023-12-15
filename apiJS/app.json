@@ -31,5 +31,13 @@
             "description": "Tính năng: - Lưu video không có hình mờ, - Lưu âm thanh, - Lưu ảnh hồ sơ, - Tự động phát video tiếp theo, - Hiển thị điều khiển video, - Khả năng tải lên video chất lượng cao, - Ẩn giao diện người dùng...",
             "downloadURL": "https://drive.google.com/uc?export=download&id=14JMzs_Da1TT-oSTUeqSsPcUMDJIk5BsG"
         },
+        
+        {
+            "iconURL": "https://github.com/WeansHHN/troll/blob/main/icon/ScreenShotx.png?raw=trueraw=true",
+            "name": "ScreenshotX",
+            "version": "1.0",
+            "description": "ScreenshotX là ứng dụng ghép ảnh hình thức chụp màn hình , bạn có thể chọn Model các dòng iphone từ 6s đến 14 ProMax với nhiều phong cách khác nhau.",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/ScreenshotX_1.0.ipa"
+        }
     ]
 }
