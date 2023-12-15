@@ -5,31 +5,39 @@
             "name": "Facebook Wolf",
             "version": "380.0",
             "description": "• Tải video trên facebook bằng cách nhấn giữ vào video đó và chọn Saver Media\n• Chặn mọi quảng cáo xuất hiện làm phiền bạn\n• vvv…. Các bạn tự trải nghiệm để biết những thứ thú vị từ phiên bản này nhé !",
-            "downloadURL": "https://wira.adem.my.id/?source=youtube&title=XgTQTsK1ch&type=ipa&download=aHR0cHM6Ly9kb3dubG9hZDE1MDcubWVkaWFmaXJlLmNvbS9paTYyZDZlMzl2YmdYVUNhR1hOc05oWjE2c2NpNjlCRVlJZ3dVSnREVkFHcUxyeFBmV1hXaEVsUDBUUjF6Q1Q5ejF6Vm5rMWNKUTZ6NVJIVU9sak9ydkpvNWppWVFXTHBIWHgwYmFXbXBmMm9IalFjSUxaY3FocnRLdlVxMXpyZ3ZGR2VRRDdpQnNVamh6eXd5NllnM21RTGYtdHBudWtHWkRuYUFzN2pJbGo2RTU0L2ZmMzh0Y3RhenNheXQ4aS9GYWNlYm9vay5WLjM4MC4wLiUyQi5Xb2xmLmlwYQ%3D%3D"
+            "downloadURL": "https://github.com/34306/TrollStoreiPA/releases/download/TS_DailyiPA/Facebook.V.380.0.+.Wolf.ipa"
         },
 
         {
             "iconURL": "https://raw.githubusercontent.com/WeansHHN/hackstore/main/apiJS/Image/msg2.png",
             "name": "Messenger Shark",
             "version": "311.0",
-            "description": "Hiển thị tốc độ tải lên và tải xuống bên dưới thanh trạng thái. Dựa trên TrollStore của opa334.",
-            "downloadURL": "https://wira.adem.my.id/?source=youtube&title=TlcA3rbDBh&type=ipa&download=aHR0cHM6Ly9kb3dubG9hZDE1MzAubWVkaWFmaXJlLmNvbS83NGdkNm9pdTIxaWdZUXlUdURueHNKRENvd1U1UDR5N1NzY3FNTFRtaWVCM1ZOeEZYLVNEa2tzVlFLeVlKdjYxSGlMaW43NVdNSmRZRUUxUnB6b0lESlJzVjhmMDhKOURzMzV3eW5PWGZ0cWxtMS1MNHFGQ05tNk1FOXhpQ1NlZTk3TlV0WTNiekF2YlE2d2Faak8wRzhkMFpxSExkY09KeUtnMHc5ZUp5eGZmQ0xrL2dhaXgzYmZuMzJicDJwZi9NZXNzZW5nZXIuMzExLjAuU2hhcmsudjIuMi4xLmlwYQ%3D%3D"
+            "description": "Messenger shark là 1 tinh chỉnh tuyệt vời của messenger facebook, bạn có thể cài song song với mesenger chính thức của facebook với nhiều tính năng hay như: \n- Ẩn không cho người khác biết bạn đã xem tin nhắn\n- Loại bỏ quảng cáo\nVà nhiều tính năng hay khác",
+            "downloadURL": "https://github.com/34306/TrollStoreiPA/releases/download/TS_DailyiPA/Messenger.311.0.Shark.v2.2.1.ipa"
         },
 
         {
             "iconURL": "https://raw.githubusercontent.com/WeansHHN/hackstore/main/apiJS/Image/yt.png",
             "name": "uYouPlus",
             "version": "17.35.3_2.1",
-            "description": "Helium là một hệ thống tiện ích Thanh trạng thái mới dành cho TrollStore và các thiết bị đã bẻ khóa.",
-            "downloadURL": "https://wira.adem.my.id/?source=youtube&title=jxDKq9noPp&type=ipa&download=aHR0cHM6Ly9kb3dubG9hZDEzMjAubWVkaWFmaXJlLmNvbS90c3dkeTlwMTFramdKWEItWnNSTlh3WnRkOUxYNG5Cdy1ZSFRuckI2X05EckNFVTY3V2UwUnR1RmpFb2xHTU10NTgtbTV0SHlZOGprVmZvM2FSckJrQjdsY3FxNjZzNlZWSGFyLUJaUXY5MjhzMm1HYURMQ2xfSkVEWFI5dnNvbFhsLU1iODV2M1FNNmtNcFVzMzFXR2NPYjhSaHRaWndOQkFpQV94MHRBM1dnMkRvL3o4eGZjam52YmZ2YnlpNC91WW91UGx1c18xNy4zNS4zXzIuMS5pcGE%3D"
+            "description": "Chặn quảng cáo, xem video tắt màn hình.",
+            "downloadURL": "https://github.com/34306/TrollStoreiPA/releases/download/TS_DailyiPA/uYouPlus_17.35.3_2.1.ipa"
+        },
+
+        {
+            "iconURL": "https://hhnipa.github.io/img/pa.png",
+            "name": "PicsArt Pro",
+            "version": "20.0.3",
+            "description": "Unlock các tính năng Pro",
+            "downloadURL": "https://github.com/34306/TrollStoreiPA/releases/download/TS_DailyiPA/PicsArt++_20.0.3.ipa"
         },
 
         {
             "iconURL": "https://raw.githubusercontent.com/WeansHHN/hackstore/main/apiJS/Image/tt.png",
             "name": "Tiktok BH PLus",
-            "version": "32.5.0",
+            "version": "23.3.1",
             "description": "Tính năng: - Lưu video không có hình mờ, - Lưu âm thanh, - Lưu ảnh hồ sơ, - Tự động phát video tiếp theo, - Hiển thị điều khiển video, - Khả năng tải lên video chất lượng cao, - Ẩn giao diện người dùng...",
-            "downloadURL": "https://wira.adem.my.id/?source=youtube&title=Zpu5yJngxC&type=ipa&download=aHR0cHM6Ly9kb3dubG9hZDEzMjAubWVkaWFmaXJlLmNvbS83NmNvM3Znb3BtNGdSQzJVamRTdG5LWDNSdE5oc3ltVzhXdXNPdXdXX2tGWklZMndKTU1nQ0FnUnVSYzdfa2MzNjNfaVhpbGxYcVc1OFBERDdSZnYtdld2VWpFM1luR0FtcWIyVlNWX25aNjFSY3hjdGE4aXE0NnZaLWNkS0pidTEyc2N1NHBwMzUtTVB0Q1laRHZTaDI2UmxlTlNEZGdCRUFqYnUwYk1oRUlWc0Evejh4ZmNqbnZiZnZieWk0L3VZb3VQbHVzXzE3LjM1LjNfMi4xLmlwYQ%3D%3D"
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/TikTok.HHN_23.3.1.ipa"
         },
 
         {
@@ -45,7 +53,8 @@
             "name": "AdGuard Pro",
             "version": "4.4.0",
             "description": "Chặn quảng cáo.",
-            "downloadURL": "https://wira.adem.my.id/?source=youtube&title=JF0O5Fm2i9&type=ipa&download=aHR0cHM6Ly9kb3dubG9hZDE2NDkubWVkaWFmaXJlLmNvbS9nYmRibmw4ZHVmcWdxZ1F2QzNMeDNhSktoWFBlZHYyQzEyYUMzVXJabnllalpkRUFINmFQcXlZb3lTNEpiRWhNekVmSmthaF9hM0N4R0NqdWtnRi1VYnVhSXNOT0oxV3JkM2xKQ3Z0S3V0eHl5UXdUZXpueUoySG02amNYNC00YWFUc1RYaTJTOHItM3Q0NldIVUVyUV8zNVFIVnZJYkNyUmpHWVU2TDhlUnZqTUFZLzJxankwa2g1ZGc4MmwwOS9BZEd1YXJkK1Byb180LjQuMF8xNjcyNzk0MTI4LmlwYQ%3D%3D"
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/AdGuard.Pro_4.4.0_1672794128.ipa"
         }
     ]
 }
+
