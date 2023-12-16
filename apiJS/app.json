@@ -25,6 +25,14 @@
         },
 
         {
+            "iconURL": "https://hhnipa.github.io/img/fbw.png",
+            "name": "Facebook Web",
+            "version": "1.0",
+            "description": "Facebook Web nhẹ cho thiết bị yếu.",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/FacebookWeb_1.0_1670233028.ipa"
+        },
+
+        {
             "iconURL": "https://raw.githubusercontent.com/WeansHHN/hackstore/main/apiJS/Image/msg2.png",
             "name": "Messenger Shark",
             "version": "311.0",
