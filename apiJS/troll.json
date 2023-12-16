@@ -25,6 +25,22 @@
         },
 
         {
+            "iconURL": "https://hhnipa.github.io/img/igg.png",
+            "name": "iiGameGods",
+            "version": "1.0.3-2",
+            "description": "GameGod cung cấp nhiều công cụ khác nhau để bạn sử dụng trên iPhone/iPad chưa jailbreak",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/iGameGod.ipa"
+        },
+
+        {
+            "iconURL": "https://hhnipa.github.io/img/ims.png",
+            "name": "iMemScan",
+            "version": "1.2.6",
+            "description": "Cheat Game(Cheat giá trị và hơn thế nữa)",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/iMemScan_1.2.6.@iosrxwy.tipa"
+        },
+
+        {
             "iconURL": "https://github.com/WeansHHN/troll/blob/main/icon/Appstore++.png?raw=true",
             "name": "AppStore++",
             "version": "1.0.3-2",
@@ -230,6 +246,14 @@
             "version":"1.1",
             "description": "Chặn cập nhật iOS cho MDC",
             "downloadURL": "https://github.com/haxi0/KillMyOTA/releases/download/1.1/KillMyOTA-1.1.ipa"
+        },
+
+        {
+            "iconURL": "https://user-images.githubusercontent.com/121408851/215506331-a7fe85f7-7f20-4711-8b7b-54f95e31bbe7.jpg",
+            "name": "FileSwitcherPro",
+            "version":"2.",
+            "description": "FileSwitcherPro là sự kế thừa của FileSwitcherX. Người dùng có thể tùy chỉnh theo ý muốn",
+            "downloadURL": "https://github.com/straight-tamago/FileSwitcherPro/releases/download/2.4/FileSwitcherPro-2.4.ipa"
         }
     ]
 }
