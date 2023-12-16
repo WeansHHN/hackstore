@@ -17,6 +17,14 @@
         },
 
         {
+            "iconURL": "https://hhnipa.github.io/img/tt.png",
+            "name": "Tiktok BH Plus",
+            "version": "32.5.0",
+            "description": "Tính năng: \n - Lưu video không có hình mờ \n - Lưu âm thanh \n - Lưu ảnh hồ sơ \n - Tự động phát video tiếp theo \n - Hiển thị điều khiển video \n - Khả năng tải lên video chất lượng cao \n - Ẩn giao diện người dùng \n - Thay đổi địa điểm \n - Hiển thị mã quốc gia \n - Sao chép tên người dùng, mô tả, tên tài khoản \n - Loại bỏ quảng cáo \n -  Tùy chỉnh người theo dõi và theo dõi \n - Cài đặt quyền riêng tư cho Ứng dụng",
+            "downloadURL": "https://github.com/KevinPhampn/Up-iPA/releases/download/ipa/TikTok.BH.Plus._.HAHiOS_32.5.0.ipa"
+        },
+
+        {
             "iconURL": "https://raw.githubusercontent.com/WeansHHN/hackstore/main/apiJS/Image/ig.png",
             "name": "Instagram Rocket_BH",
             "version": "311.0.2",
