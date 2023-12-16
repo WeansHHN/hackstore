@@ -25,7 +25,7 @@
         },
 
         {
-            "iconURL": "https://hhnipa.github.io/img/fbw.png",
+            "iconURL": "https://raw.githubusercontent.com/WeansHHN/hackstore/main/apiJS/Image/fblite.png",
             "name": "Facebook Web",
             "version": "1.0",
             "description": "Facebook Web nhẹ cho thiết bị yếu.",
