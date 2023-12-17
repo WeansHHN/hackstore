@@ -17,6 +17,14 @@
         },
 
         {
+            "iconURL": "https://raw.githubusercontent.com/WeansHHN/hackstore/main/apiJS/Image/Abox.jpg",
+            "name": "Abox",
+            "version": "1.6.",
+            "description": "Ứng dụng sign IPA",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/ABox_v1.6.3.ipa"
+        },
+
+        {
             "iconURL": "https://hhnipa.github.io/img/tt.png",
             "name": "Tiktok BH Plus",
             "version": "32.5.0",
@@ -110,6 +118,14 @@
             "version": "3.9.4",
             "description": "Mở Full dự án và 1 số tính năng khác.",
             "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/LinkInBio++_3.9.4.ipa"
+        },
+
+        {
+            "iconURL": "https://s.net.vn/1w02",
+            "name": "Textastic",
+            "version": "9.8.7",
+            "description": "IPA crack.",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/Textastic_TS.ipa"
         }
     ]
 }
