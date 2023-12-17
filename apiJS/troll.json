@@ -3,9 +3,9 @@
         {
             "iconURL": "https://pbs.twimg.com/profile_images/1120870317319053313/x7u1wDn5_400x400.jpg",
             "name": "Misaka",
-            "version": "3.3.7 Beta",
+            "version": "3.3.8 Beta",
             "description": "Ứng dụng tinh chỉnh iphone, khai thác lỗ hổng bảo mật KFD và MDC.",
-            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/misaka-v3.3.7.ipa"
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/misaka-v3.3.8.ipa"
         },
 
         {
@@ -82,10 +82,10 @@
 
         {
             "iconURL": "https://github.com/WeansHHN/troll/blob/main/icon/C7E22BD4-17C9-4910-BAB6-53FC38C96DB4.png?raw=true",
-            "name": "Picasso v3",
-            "version": "3",
+            "name": "Picasso",
+            "version": "3.0.",
             "description": "Ứng dụng tinh chỉnh iphone, khai thác lỗ hổng bảo mật KFD và MDC.",
-            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/Picasso_v3.ipa"
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/Picasso_v3.0.1.ipa"
         },
 
         {
@@ -254,6 +254,38 @@
             "version":"2.4",
             "description": "FileSwitcherPro là sự kế thừa của FileSwitcherX. Người dùng có thể tùy chỉnh theo ý muốn",
             "downloadURL": "https://github.com/straight-tamago/FileSwitcherPro/releases/download/2.4/FileSwitcherPro-2.4.ipa"
+        },
+
+        {
+            "iconURL": "NULL",
+            "name": "CAPerfHUD",
+            "version":"NULL",
+            "description": "1 ứng dụng đo FPS,... được biên dịch lại bởi HuyNguyen (Little 34306). Hỗ trợ Trollstore",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/CAPerfHUD.tipa"
+        },
+
+        {
+            "iconURL": "https://raw.githubusercontent.com/WeansHHN/hackstore/main/apiJS/Image/NiceBatter.jpg",
+            "name": "NiceBattery",
+            "version":"1.0",
+            "description": "Ứng dụng hiển thị số lần sạc, nhiệt độ pin và hơn thế nữa. Hỗ trợ Trollstore",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/NiceBattery_TS.ipa"
+        },
+
+        {
+            "iconURL": "https://raw.githubusercontent.com/WeansHHN/hackstore/main/apiJS/Image/RespringCC.jpg",
+            "name": "RespringCC",
+            "version":"1.0",
+            "description": "Ứng dụng khi ấn vào thiết bị sẽ tự động Respring",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/RespringCC_1.0.ipa"
+        },
+
+        {
+            "iconURL": "https://raw.githubusercontent.com/Avangelista/StatusMagic/main/Images/RoundedIcon.png",
+            "name": "StatusMagic",
+            "version":"1.0.3",
+            "description": "Ứng dụng tùy chỉnh thanh trạng ",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/StatusMagic.tipa"
         }
     ]
 }
