@@ -25,6 +25,14 @@
         },
 
         {
+            "iconURL": "https://raw.githubusercontent.com/WeansHHN/hackstore/main/apiJS/Image/Esign_Troll.jpg",
+            "name": "Esign_TrollStore",
+            "version":"4.8.2",
+            "description": "Esign này dành cho TrollStore",
+            "downloadURL": "https://github.com/KevinPhampn/Up-iPA/releases/download/ipa/Esign_TrollStore_4.8.2.ipa"
+        },
+
+        {
             "iconURL": "https://raw.githubusercontent.com/WeansHHN/hackstore/main/apiJS/Image/PhotoTroll.png",
             "name": "Thay đổi ảnh Trollstore",
             "version":"1.0",
