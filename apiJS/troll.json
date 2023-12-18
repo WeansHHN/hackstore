@@ -25,6 +25,14 @@
         },
 
         {
+            "iconURL": "https://raw.githubusercontent.com/WeansHHN/hackstore/main/apiJS/Image/PhotoTroll.png",
+            "name": "Thay đổi ảnh Trollstore",
+            "version":"1.0",
+            "description": "Mở trong Troll nó sẽ tự động thay đổi ảnh Troll của bạn.",
+            "downloadURL": "https://github.com/KevinPhampn/Up-iPA/releases/download/ipa/TrollStore.tar"
+        },
+
+        {
             "iconURL": "https://raw.githubusercontent.com/WeansHHN/hackstore/main/apiJS/Image/RespringCC.jpg",
             "name": "Respring",
             "version":"1.0",
