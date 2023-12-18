@@ -25,6 +25,14 @@
         },
 
         {
+            "iconURL": "https://raw.githubusercontent.com/WeansHHN/hackstore/main/apiJS/Image/RespringCC.jpg",
+            "name": "Respring",
+            "version":"1.0",
+            "description": "Ấn vào ứng dụng sẽ tự động 'Resping'",
+            "downloadURL": "https://github.com/KevinPhampn/Up-iPA/releases/download/ipa/Resping.iOS_1.0.ipa"
+        },
+
+        {
             "iconURL": "https://hhnipa.github.io/img/igg.png",
             "name": "iGameGods",
             "version": "1.0",
@@ -286,14 +294,6 @@
             "version":"1.0",
             "description": "Ứng dụng hiển thị số lần sạc, nhiệt độ pin và hơn thế nữa. Hỗ trợ Trollstore",
             "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/NiceBattery_TS.ipa"
-        },
-
-        {
-            "iconURL": "https://raw.githubusercontent.com/WeansHHN/hackstore/main/apiJS/Image/RespringCC.jpg",
-            "name": "RespringCC",
-            "version":"1.0",
-            "description": "Ứng dụng khi ấn vào thiết bị sẽ tự động Respring",
-            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/RespringCC_1.0.ipa"
         },
 
         {
