@@ -241,7 +241,7 @@
         },
 
         {
-            "iconURL": "https://github.com/haxi0/KillMyOTA/blob/master/KillMyOTA-modified.png",
+            "iconURL": "https://github.com/WeansHHN/hackstore/blob/main/apiJS/Image/blockOTA.png?raw=true",
             "name": "KillMyOTA",
             "version":"1.1",
             "description": "Chặn cập nhật iOS cho MDC",
