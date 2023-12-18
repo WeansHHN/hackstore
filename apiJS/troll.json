@@ -58,10 +58,26 @@
 
         {
             "iconURL": "https://github.com/leminlimez/Helium/blob/main/src/assets/credits/leminlimez.png?raw=true",
-            "name": "Helium",
-            "version": "1.0",
+            "name": "Helium (Chữ trắng)",
+            "version": "1.1",
             "description": "Helium là một hệ thống tiện ích Thanh trạng thái mới dành cho TrollStore và các thiết bị đã bẻ khóa.",
-            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/Helium_1.0.ipa"
+            "downloadURL": "https://github.com/leminlimez/Helium/releases/download/v1.1/Helium_BELOW_STATUS_BAR.tipa"
+        },
+
+        {
+            "iconURL": "https://github.com/leminlimez/Helium/blob/main/src/assets/credits/leminlimez.png?raw=true",
+            "name": "Helium (Chữ đen)",
+            "version": "1.1.2",
+            "description": "Helium là một hệ thống tiện ích Thanh trạng thái mới dành cho TrollStore và các thiết bị đã bẻ khóa.",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/HackStoreIPA/Helium_1.1.2-.Ch.Den.tipa"
+        },
+
+        {
+            "iconURL": "https://github.com/leminlimez/Helium/blob/main/src/assets/credits/leminlimez.png?raw=true",
+            "name": "Helium (Chữ tím)",
+            "version": "1.1.2",
+            "description": "Helium là một hệ thống tiện ích Thanh trạng thái mới dành cho TrollStore và các thiết bị đã bẻ khóa.",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/HackStoreIPA/Helium_1.1.2-Ch.Tim.tipa"
         },
 
         {
