@@ -89,6 +89,14 @@
         },
 
         {
+            "iconURL": "https://raw.githubusercontent.com/WeansHHN/hackstore/main/apiJS/Image/smpro.jpg",
+            "name": "SMPro",
+            "version": "5.3",
+            "description": "SMPro là ứng dụng ghép ảnh hình thức chụp màn hình , bạn có thể chọn Model các dòng iphone từ 15 đến  ProMax với nhiều phong cách khác nhau.",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/HackStoreIPA/smpro_5.3@DPixel.ipa"
+        },
+
+        {
             "iconURL": "https://hhnipa.github.io/img/spt.png",
             "name": "Spectra",
             "version": "1.5.5",
