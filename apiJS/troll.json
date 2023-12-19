@@ -34,7 +34,7 @@
 
         {
             "iconURL": "https://raw.githubusercontent.com/WeansHHN/hackstore/main/apiJS/Image/RespringCC.jpg",
-            "name": "Respring",
+            "name": "RespringCC",
             "version":"1.0",
             "description": "Ấn vào ứng dụng sẽ tự động 'Respring'",
             "downloadURL": "https://github.com/KevinPhampn/Up-iPA/releases/download/ipa/Resping.iOS_1.0.ipa"
@@ -115,7 +115,7 @@
         {
             "iconURL": "https://github.com/WeansHHN/troll/blob/main/icon/C7E22BD4-17C9-4910-BAB6-53FC38C96DB4.png?raw=true",
             "name": "Picasso",
-            "version": "3.0.",
+            "version": "3.0.1",
             "description": "Ứng dụng tinh chỉnh iphone, khai thác lỗ hổng bảo mật KFD và MDC.",
             "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/Picasso_v3.0.1.ipa"
         },
