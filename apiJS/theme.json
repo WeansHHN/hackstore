@@ -1,0 +1,27 @@
+{
+    "themes": [
+        {
+            "iconURL": "https://github.com/WeansHHN/troll/blob/main/icon/Appstore++.png?raw=true",
+            "imageDemo": "https://i.pinimg.com/originals/a8/be/64/a8be64e2ee126ecd923e1d07648fe719.jpg",
+            "name": "AppStore++",
+            "description": "Tinh chỉnh AppStore++ cho TrollStore. Cho phép bạn hạ cấp các ứng dụng đã cài đặt",
+            "downloadURL": "https://github.com/CokePokes/AppStorePlus-TrollStore/releases/download/v1.2-1/AppStore++_TrollStore_v1.0.3-2.ipa"
+        },
+
+        {
+            "iconURL": "https://github.com/WeansHHN/troll/blob/main/icon/TrollSpeed.png?raw=true",
+            "imageDemo": "https://i.pinimg.com/originals/a8/be/64/a8be64e2ee126ecd923e1d07648fe719.jpg",
+            "name": "TrollSpeed",
+            "description": "Hiển thị tốc độ tải lên và tải xuống bên dưới thanh trạng thái. Dựa trên TrollStore của opa334.",
+            "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.8.2/TrollSpeed_1.8.2.tipa"
+        },
+
+        {
+            "iconURL": "https://github.com/leminlimez/Helium/blob/main/src/assets/credits/leminlimez.png?raw=true",
+            "imageDemo": "https://i.pinimg.com/originals/a8/be/64/a8be64e2ee126ecd923e1d07648fe719.jpg",
+            "name": "Helium",
+            "description": "Helium là một hệ thống tiện ích Thanh trạng thái mới dành cho TrollStore và các thiết bị đã bẻ khóa.",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/Helium_1.0.ipa"
+        }
+    ]
+}
