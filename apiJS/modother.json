@@ -1,0 +1,18 @@
+{
+    "themes": [
+        {
+            "iconURL": "https://raw.githubusercontent.com/WeansHHN/troll/main/icon/IMG_2049.jpg",
+            "imageDemo": "https://raw.githubusercontent.com/WeansHHN/troll/main/icon/1AEE5B6B-A5AE-48B6-B91B-C76DA7F02878.jpeg",
+            "name": "Icon Trollstore HHN",
+            "description": "Tải file về và mở bằng Trollstore, khởi động lại và sử dụng.",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/HackStoreIPA/IconTrollByHHN.tar"
+        },
+        {
+            "iconURL": "https://raw.githubusercontent.com/WeansHHN/troll/main/icon/TrollStore.jpg",
+            "imageDemo": "https://raw.githubusercontent.com/WeansHHN/troll/main/icon/photo_2023-12-21_20-00-09.jpg",
+            "name": "Icon Trollstore",
+            "description": "Tải file về và mở bằng Trollstore, khởi động lại và sử dụng.",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/HackStoreIPA/TrollStoreIconv1.tar"
+        }
+    ]
+}
