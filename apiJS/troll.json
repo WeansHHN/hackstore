@@ -99,9 +99,9 @@
         {
             "iconURL": "https://github.com/leminlimez/Helium/blob/main/src/assets/credits/leminlimez.png?raw=true",
             "name": "Helium (Chữ trắng)",
-            "version": "1.1",
+            "version": "2.0.1",
             "description": "Helium là một hệ thống tiện ích Thanh trạng thái mới dành cho TrollStore và các thiết bị đã bẻ khóa.",
-            "downloadURL": "https://github.com/leminlimez/Helium/releases/download/v1.1/Helium_BELOW_STATUS_BAR.tipa"
+            "downloadURL": "https://github.com/leminlimez/Helium/releases/download/v2.0.1/Helium.tipa"
         },
 
         {
