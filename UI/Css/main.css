@@ -1,0 +1,250 @@
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch&family=Epilogue:wght@500&display=swap');
+
+body {
+    top: 0;
+    margin: 0;
+    font-family: 'Chakra Petch', sans-serif;
+    background-color: #0f0f0f;
+}
+
+.header-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    position: fixed;
+    background-color: #0f0f0f;
+    width: 100%;
+    z-index: 1000;
+}
+
+.header-logo p {
+    font-size: 3vh;
+    font-weight: bold;
+    color: #fff;
+}
+
+.header-item {
+    background-color: rgb(173, 166, 166);
+    padding: 9px 12.5px;
+    border-radius: 12px;
+}
+
+.header-image{
+    position: relative;
+    top: 70px;
+    transform: scale(1);
+    max-height: 300px;
+    overflow: hidden;
+    box-sizing: border-box;
+    margin-bottom: 13vh;
+}
+
+.header-image img {
+    width: 100%;
+    height: auto;
+    /* object-fit: cover; */
+}
+
+.header-title {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    backdrop-filter: blur(3px);
+    z-index: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header-title-main {
+    text-align: center;
+}
+
+.header-title-main h2 {
+    font-size: 70px;
+    color: rgb(235, 228, 228);
+    text-shadow: 0 5px #0f0f0f;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.header-title-main p {
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    text-shadow: 0 2px #0f0f0f;
+    margin-top: 5px;
+    margin-bottom: 0;
+}
+
+.body-image {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+.body-image img {
+    width: 40vh;
+}
+
+.body-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.body-info {
+    background-color: rgb(142, 185, 171);
+    padding: 25px;
+    border-radius: 20px;
+    margin: 0 20px;
+}
+
+.body-info h1 {
+    margin: 0;
+}
+
+.body-info p {
+    margin: 0;
+}
+
+.body-release {
+    background-color: rgb(142, 185, 171);
+    padding: 25px;
+    border-radius: 20px;
+    margin: 20px;
+}
+
+.button-release {
+    background-color: aqua;
+    font-size: 13px;
+    font-weight: 600;
+    margin-top: 10px;
+    border-radius: 50px;
+    padding: 10px;
+    border: none;
+}
+
+.button-release:hover {
+    background-color: rgb(89, 95, 95);
+}
+
+.button-release a {
+    text-decoration: none;
+}
+
+.body-release h1 {
+    margin: 0;
+}
+
+.body-release p {
+    margin: 0;
+}
+
+.body-credit {
+    background-color: rgb(142, 185, 171);
+    padding: 25px;
+    border-radius: 20px;
+    margin: 20px;
+}
+
+.body-credit h1 {
+    margin: 0;
+}
+
+.body-credit p {
+    margin: 0;
+}
+
+.download-header h1 {
+    color: #fff;
+    margin: 0 20px;
+}
+
+.body-download {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 30px;
+}
+
+.download-body {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin: 10px;
+}
+
+.download-ipa button {
+    border: none;
+    background-color: rgb(135, 222, 218);
+    padding: 10px 40px;
+    border-radius: 20px;
+}
+
+.download-ipa button p {
+    margin: 0;
+    font-weight: 600;
+}
+
+.download-ipa button a {
+    text-decoration: none;
+}
+
+.download-trollstore button {
+    border: none;
+    background-color: rgb(135, 222, 218);
+    padding: 10px 40px;
+    border-radius: 20px;
+}
+
+.download-trollstore button p {
+    margin: 0;
+    font-weight: 600;
+}
+
+.download-trollstore button a {
+    text-decoration: none;
+}
+
+@media screen and (max-width: 500px) {
+    .header-title-main h2 {
+        font-size: 40px;
+    }
+
+    .header-title-main p {
+        font-size: 17px;
+    }
+
+    .body-credit h1 {
+        margin: 0;
+        font-size: 20px;
+    }
+    
+    .body-credit p {
+        margin: 0;
+        font-size: 14px;
+    }
+
+    .body-release h1 {
+        margin: 0;
+        font-size: 20px;
+    }
+    
+    .body-release p {
+        margin: 0;
+        font-size: 14px;
+    }
+
+    .body-info h1 {
+        margin: 0;
+        font-size: 20px;
+    }
+    
+    .body-info p {
+        margin: 0;
+        font-size: 14px;
+    }
+}

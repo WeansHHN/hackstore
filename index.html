@@ -1,248 +1,93 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>HackStore-HHNiOS</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha256-aAr2Zpq8MZ+YA/D6JtRD3xtrwpEz2IqOS+pWD/7XKIw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="/assets/css/styles.css">
-    
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #000000d0;
-            margin: 0;
-            padding: 0;
-        }
-
-        .navbar {
-            background: linear-gradient(to right, #ff4b1f, #1f8aff);
-            margin-bottom: 10px;
-        }
-
-        .navbar-brand {
-           color: #fff;
-        }
-
-        .btn-download {
-            margin-top: 10px;
-            background: linear-gradient(to right, #ff4b1f, #1f8aff);
-            color: #fff;
-            padding: 10px 20px;
-            border: none;
-            border-radius: 20px;
-            font-weight: bold;
-            cursor: pointer;
-            transition: background 0.3s;
-        }
-
-        .btn-download:hover {
-            background: linear-gradient(to right, #ff4b1f, #1f8aff);
-        }
-
-        .hero-jumbo {
-            background: url('https://images7.alphacoders.com/133/1334619.jpeg') no-repeat center center;
-            background-size: cover;
-            text-align: center;
-            color: #fff;
-            padding: 100px 0;
-        }
-
-        .hero-text {
-            font-size: 36px;
-            font-weight: bold;
-            margin: 10px 0;
-            background: linear-gradient(to right, #ff3300, #007bff);
-            -webkit-background-clip: text;
-            background-clip: text;
-            color: transparent;
-        }
-
-        .hero-subtext {
-            font-size: 20px;
-            color: #003bfcc5;
-        }
-
-        .hero-versions {
-            background: linear-gradient(to right, #ff7300, #ff0000);
-            -webkit-background-clip: text;
-            background-clip: text;
-            color: transparent; 
-        }
-
-        .styles {
-            display: center;
-            justify-content: center;
-            margin: 0px 0;
-            width: 20px;
-        }
-
-        classic, Sugarfree, Mango {
-            background: linear-gradient(to right, #ff4b1f, #1f8aff);
-            color: #fff;
-            padding: 10px 20px;
-            border-radius: 5px;
-            margin: 0 10px;
-        }
-
-        .iphonemcokup img {
-            width: 100%;
-            max-width: 500px;
-            display: block;
-            margin: 0 auto;
-            margin-top: -100px;
-        }
-
-        .s1 {
-            background-color: #00000091;
-            padding: 20px;
-            text-decoration: none;
-            border-radius: 20px;
-            color: #fff;
-        }
-
-        .s1 h2 {
-            color: #333;
-        }
-
-
-
-        .container.text-center h2 {
-            margin-top: 40px;
-        }
-
-        .download h3 {
-            font-size: 24px;
-            background: linear-gradient(to right, #ff4b1f, #1f8aff);
-            -webkit-background-clip: text;
-            background-clip: text;
-            color: transparent;
-        }
-
-        .download ul {
-            list-style-type: disc;
-        }
-
-        .btn-download {
-            background: linear-gradient(to right, #ff4b1f, #1f8aff);
-            color: #fff;
-        }
-
-        .downloads-button {
-            display: inline-block;
-            padding: 10px 10px;
-            background: linear-gradient(to right, #ff4b1f, #1f8aff);
-            color: #fff;
-            border: none;
-            border-radius: 20px;
-            font-weight: bold;
-            cursor: pointer;
-        }
-
-        .downloads-button:hover {
-            background: linear-gradient(to right, #ff1f1f, #1f6cff);
-        }
-
-        .rounded-icon {
-            width: 50px;
-            height: 50px;
-            border-radius: 50%;
-            overflow: hidden;
-        }
-    </style>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hackstore</title>
+    <link rel="stylesheet" href="/UI/Css/main.css">
 </head>
-<body>
-    <header class="hero-jumbo">
-        <nav class="navbar navbar-light fixed-top">
-            <div class="container">
-                <a class="navbar-brand">
-                    <h2>HackStore</h2>
-                </a>
-            </div>
-        </nav>
-        <section id="hero-container">
-            <div class="header-box">
-                <h1 class="hero-text">
-                    <a>HackStore</a>
-                </h1>
-                <p class="lead hero-subtext">Online hacking game store.</p>
-                <p class="lead hero-versions">Supports iOS 14.1-New version.</p>
-                <button href="#" class="downloads-button" onclick="scrollToSection('download')">
-                    <div id="Mango">Download</div>
-                </button>
-            </div>
-        </section>
-    </header>
 
-    <section>
-        <figure class="iphonemcokup">
-            <img src="images/iphones.PNG" alt="mockups">
-        </figure>
-        <div class="s1">
-            <div class="container">
-                <h8><b>Advantages of HackStore:</b></h8>
-                <br>
-                <li>Download Hack 3rd Party Games Using DNS.</li>
-                <li>User interface easy to use.</li>
-                <li>Light application size.</li>
-            </div>
-        </div>
-    </section>
-    <br>
-    <section>
-        <div class="container s2">
-            <h3 class="download h3" style="color: #fff;">Download:</h3>
-            <br>
-            <div class="row download">
-                <div class="col-md-4">
-                    <h3>Beta 1.0</h3>
-                    <p class="h6" style="color: #fff;">Released October 30, 2023</p>
-                    <p class="mt-4 d-none d-md-block small" aria-hidden="true">
-                        <a href="/releases/">Older Releases</a>
-                    </p>
+<body>
+    <div>
+        <header>
+            <div class="header-container">
+                <div class="header-logo">
+                    <p>Hackstore</p>
                 </div>
-                <article class="col-md-8" style="color: #fff;">
-                    <ul>
-                        <li>Beta version 1 with N* bugs :))</li>
-                    </ul>
-                    <span>
-                        <a href="" class="btn btn-download mb-1">
-                            Coming soon
-                        </a>
-                    </span>
-                </article>
-            </div>
-        </div>
-    </section>
-    <br>
-    <br>
-    <section>
-        <div class="container s3">
-            <h3 class="download h3" style="color: #fff;">Credits:</h3>
-            <br>
-            <div class="row">
-                <div class="col-md-6">
-                    <div class="developer-info">
-                        <div class="rounded-icon">
-                            <img src="https://github.com/WeansHHN/hackstore/blob/main/images/ninh.jpg?raw=true" alt="Developer 1 Icon" width="50" height="50">
-                        </div>
-                        <h4 style="color: #ccc;">Weans (HHNiOS)</h4>
-                        <p style="color: #ccc;">Main development, Website</p>
-                    </div>
+                <div class="header-item">
+                    <!-- Link Github -->
+                    <a href="" class="header-link">
+                        <svg xmlns="http://www.w3.org/2000/svg" height="22" width="21.5"
+                            viewBox="0 0 496 512"><!--!Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2023 Fonticons, Inc.-->
+                            <path
+                                d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3 .3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5 .3-6.2 2.3zm44.2-1.7c-2.9 .7-4.9 2.6-4.6 4.9 .3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3 .7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3 .3 2.9 2.3 3.9 1.6 1 3.6 .7 4.3-.7 .7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3 .7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3 .7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z" />
+                        </svg>
+                    </a>
                 </div>
-                <br>
-                <div class="col-md-6">
-                    <div class="developer-info">
-                        <div class="rounded-icon">
-                            <img src="https://github.com/WeansHHN/hackstore/blob/main/images/phong.jpg?raw=true" alt="Developer 2 Icon" width="50" height="50">
-                        </div>
-                        <h4 style="color: #ccc;">DunkeyFong (Trọng Phong)</h4>
-                        <p style="color: #ccc;">Fix bugs and support</p>
+            </div>
+            <div class="header-image">
+                <img src="/img/header-img.gif" alt="">
+                <div class="header-title">
+                    <div class="header-title-main">
+                        <h2>Hackstore</h2>
+                        <p>Online hacking game store</p>
                     </div>
                 </div>
             </div>
+        </header>
+        <div class="body-container">
+            <div class="body-header">
+                <div class="body-image">
+                    <img src="/img/iphones.PNG" alt="">
+                </div>
+                <div>
+                    <div class="body-info">
+                        <h1>Hackstore</h1>
+                        <div>
+                            <p>Usage:</p>
+                            <ul>
+                                <li>Download support applications for TrollStore.</li>
+                                <li>Download Hack 3rd Party Games.</li>
+                            </ul>
+                        </div>
+                        <p>Support: iOS 14 - New version</p>
+                    </div>
+                    <div class="body-release">
+                        <h1>Release:</h1>
+                        <p>• 1.0</p>
+                        <button class="button-release">
+                            <a href="https://github.com/WeansHHN/hackstore/releases">Older Release</a>
+                        </button>
+                    </div>
+                    <div class="body-credit">
+                        <h1>Credit:</h1>
+                        <p>• <b href="https://www.facebook.com/weansios">Weans (HHNiOS)</b> - Leader, Main Developer</p>
+                        <p>• <b href="https://www.facebook.com/weansios">DunkeyyFong (Trong Phong)</b> - Fix bug and supporting</p>
+                    </div>
+                </div>
+            </div>
+            <div class="body-download">
+                <div class="download-header">
+                    <h1>Download:</h1>
+                </div>
+                <div class="download-body">
+                    <div class="download-ipa">
+                        <button class="">
+                            <a href="https://github.com/WeansHHN/hackstore/releases/download/1.0/HackStore_1.0.ipa"><p style="font-size: 17px;">iPA</p></a>
+                        </button>
+                    </div>
+                    <div class="download-trollstore">
+                        <button class="">
+                            <a href="apple-magnifier://install?url=https://github.com/WeansHHN/hackstore/releases/download/1.0/HackStore_1.0.ipa"><p style="font-size: 17px;">TrollStore</p></a>
+                        </button>
+                    </div>
+                    <br>
+                </div>
+            </div>
         </div>
-    </section>
-    <br>
+    </div>
+
 </body>
+
 </html>
