@@ -38,6 +38,14 @@
             "version": "1.4",
             "description": "Tua nhanh và loại bỏ quảng cáo.",
             "downloadURL": "https://github.com/WeansHHN/troll/releases/download/HackStoreIPA/Spin.Link_1.4_1703309671.ipa"
+        },
+
+        {
+            "iconURL": "https://i.rada.vn/data/image/2021/11/30/Cats-and-Soup-200.png",
+            "name": "Mèo và Súp",
+            "version": "2.32.0",
+            "description": "-Trò Chơi Nuôi Mèo Hoạt Hình Siêu Dễ Thương.\n-Tương Tác Với Các Bé Mèo Đáng Yêu\n-Nhạc Nền Và Âm thanh ASMR Đầy Thư Giãn\n-Trò Chơi Thú Cưng Mô Phỏng Kinh Doanh Nhanh Chóng Và Dễ Dàng.",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/HackStoreIPA/Cats.Soup_2.32.0_1703382617.ipa"
         }
     ]
 }
