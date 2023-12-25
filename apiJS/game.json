@@ -25,6 +25,22 @@
         },
 
         {
+            "iconURL": "https://github.com/WeansHHN/hackstore/blob/main/apiJS/Image/dls18.jpg",
+            "name": "Dream League Soccer 18 Modded Đội Hình Đen",
+            "version": "6.3",
+            "description": "Hướng dẫn Mod đội hình: \n Bước 1: Vào game chơi 1 trận hoặc bỏ qua hướng dẫn của trò chơi lúc vào game. \n Bước 2: Anh em vào app 'Tệp' của iPhone, sau đó tìm mục 'Trên iPhone'. \n Bước 3: Giải nén tệp document.zip, sau đó sao chép 335 tệp \n Bước 4: Dán vào thư mục 'DreamLeague' -> chọn thay thế chờ nó Load là xong \n * Đội hình Modded by HoangAnh",
+            "downloadURL": "https://github.com/KevinPhampn/Up-iPA/releases/download/ipa/DreamLeague_6.13.ipa"
+        },
+
+        {
+            "iconURL": "https://github.com/WeansHHN/hackstore/blob/main/apiJS/Image/dls18.jpg",
+            "name": "Thư mục Đội Hình Đen",
+            "version": "Chưa xác định",
+            "description": "Anh em tải File này về rồi giải nén ra mà mod nhé, hướng dẫn có rồi nhé!",
+            "downloadURL": "https://github.com/KevinPhampn/Up-iPA/releases/download/ipa/Documents.zip"
+        },
+
+        {
             "iconURL": "https://play-lh.googleusercontent.com/Gpp87vMy7HMftEnl8GkTJrWPf2g6lIbNR0asWPtFBNSduXxfdzuky2fK1itlx4pfjaU=s48-rw",
             "name": "Coin Master Mod iGameGods",
             "version": "5.3.1400",
