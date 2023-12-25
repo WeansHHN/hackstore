@@ -6,6 +6,14 @@
             "name": "Mod Skin Liên Quân (100Skin)",
             "description": "Tải file về và dán vào thư mục của Liên Quân.",
             "downloadURL": "https://github.com/WeansHHN/troll/releases/download/HackStoreIPA/100.SkinLQ.VIP.v19.zip"
+        },
+
+        {
+            "iconURL": "https://raw.githubusercontent.com/WeansHHN/hackstore/main/apiJS/Image/dls18.jpg",
+            "name": "Thư mục Đội Hình Đen",
+            "version": "Chưa xác định",
+            "description": "Anh em tải File này về rồi giải nén ra mà mod nhé, hướng dẫn có rồi nhé!",
+            "downloadURL": "https://github.com/KevinPhampn/Up-iPA/releases/download/ipa/Documents.zip"
         }
     ]
 }
