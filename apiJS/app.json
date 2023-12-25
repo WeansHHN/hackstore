@@ -134,6 +134,22 @@
             "version": "9.8.7",
             "description": "IPA crack.",
             "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/Textastic_TS.ipa"
+        },
+
+        {
+            "iconURL": "NULL",
+            "name": "AnimeVietSub",
+            "version": "1.0",
+            "description": "Phiên bản webkit của web xem anime miễn phí.",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/HackStoreIPA/AnimeVietSub_1.0_1703509052.ipa"
+        },
+
+        {
+            "iconURL": "https://raw.githubusercontent.com/WeansHHN/troll/main/icon/BlackCat.jpg",
+            "name": "iHaiTen",
+            "version": "1.0",
+            "description": "Phiên bản WebKit của Website xem Hanime =)))",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/HackStoreIPA/iHaiTen_1.0_1703508964.ipa"
         }
     ]
 }
