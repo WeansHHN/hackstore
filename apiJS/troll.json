@@ -7,6 +7,15 @@
             "description": "Ứng dụng dùng để cài đặt TrollStore, khai thác lỗ hổng bảo mật MDC, dành cho iOS 15 - iOS 15.7.1 / iOS 16.0 - iOS 16.1.2",
             "downloadURL": "https://dhinakg.github.io/files/apps/TrollInstallerMDC/TrollInstallerMDC.ipa"
         },
+        
+        {
+            "iconURL": "https://raw.githubusercontent.com/WeansHHN/hackstore/main/apiJS/Image/Dopamine.png",
+            "name": "Dopamine",
+            "version": "1.1.11",
+            "description": "Dopamine là ứng dụng Jailbreak semi-untethered dành cho iOS 15",
+            "downloadURL": "https://github.com/opa334/Dopamine/releases/download/1.1.11/Dopamine.tipa"
+        },
+        
         {
             "iconURL": "https://pbs.twimg.com/profile_images/1120870317319053313/x7u1wDn5_400x400.jpg",
             "name": "Misaka",
