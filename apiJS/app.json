@@ -150,6 +150,14 @@
             "version": "1.0",
             "description": "Phiên bản WebKit của Website xem Hanime =)))",
             "downloadURL": "https://github.com/WeansHHN/troll/releases/download/HackStoreIPA/iHaiTen_1.0_1703508964.ipa"
+        },
+
+        {
+            "iconURL": "https://github.com/WeansHHN/troll/blob/main/icon/porn.png",
+            "name": "Pornhub Premium",
+            "version": "1.0",
+            "description": "Phiên bản WebKit của Pronhub",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/HackStoreIPA/PornHub.Premium.ipa"
         }
     ]
 }
