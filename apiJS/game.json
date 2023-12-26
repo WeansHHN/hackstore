@@ -2,10 +2,18 @@
     "apps": [
         {
             "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk5FHTaju-cdpR0wUvOg1mQVUEI4XItYlaXA&usqp=CAU",
-            "name": "Liên Quân Mobile Hack",
+            "name": "Liên Quân Mobile Hack Kín",
             "version": "1.52.11085608",
             "description": "Các chức năng cơ bản như Hack Map, Hiện Rank,... Lưu ý: Không được sử dụng 2 Liên Quân trong 1 thiết bị.",
             "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/AOV_1.52.11085608_1702828969.ipa"
+        },
+
+        {
+            "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk5FHTaju-cdpR0wUvOg1mQVUEI4XItYlaXA&usqp=CAU",
+            "name": "Liên Quân Mobile Hack Chấp Tố Cáo",
+            "version": "1.52.11085608",
+            "description": "Hack map, antiban cháp tố cáo.\nLưu ý: Xoá Liên Quân gốc, có ký bằng Esign thì không thay đổi tên app và bundleid, không tiêm thêm deb/dylib tránh bị ban\nDùng ngon đến khi bị fix 🐧",
+            "downloadURL": "https://github.com/Sylphin3107/Sylphin/releases/download/v1.0.0/1912.ipa"
         },
 
         {
