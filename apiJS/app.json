@@ -158,6 +158,14 @@
             "version": "1.0",
             "description": "Phiên bản WebKit của Pronhub",
             "downloadURL": "https://github.com/WeansHHN/troll/releases/download/HackStoreIPA/PornHub.Premium.ipa"
+        },
+     
+        {
+            "iconURL": "https://github.com/WeansHHN/troll/blob/main/icon/6850401E-E3D4-4E1E-BDB8-0D0C8223F52B.jpeg?raw=true",
+            "name": "210",
+            "version": "1.0",
+            "description": " Phiên bản webkit của Web đọc 210",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/HackStoreIPA/HenTaiVN-1.0.ipa"
         }
     ]
 }
