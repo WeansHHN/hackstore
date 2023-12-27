@@ -337,6 +337,14 @@
         },
 
         {
+            "iconURL": "https://raw.githubusercontent.com/BomberFish/CAPerfHUDSwift/main/CAPerfHUDSwift/Assets.xcassets/AppIcon.appiconset/QuartzDebugIcon_white.png",
+            "name": "CAPerfHUDSwift",
+            "version":"1.0.2",
+            "description": "1 ứng dụng đo FPS,... được biên dịch lại bởi HuyNguyen (Little 34306). Hỗ trợ Trollstore. Thay thế CAPerfHUD, được viết bằng Swift.",
+            "downloadURL": "https://github.com/BomberFish/CAPerfHUDSwift/releases/download/v1.0.2/CAPerfHUDSwift.tipa"
+        },
+
+        {
             "iconURL": "https://raw.githubusercontent.com/WeansHHN/hackstore/main/apiJS/Image/NiceBatter.jpg",
             "name": "NiceBattery",
             "version":"1.0",
