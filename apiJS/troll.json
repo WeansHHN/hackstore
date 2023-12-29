@@ -385,14 +385,6 @@
         },
 
         {
-            "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCXTvp18BFupt82nQkLN-z90dNSRh_B1m_aw&usqp=CAU",
-            "name": "CocoaTop",
-            "version":"1.0",
-            "description": "CocoaTop: Trình xem quy trình cho GUI iOS",
-            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/HackStoreIPA/CocoaTop_TS.tipa"
-        },
-
-        {
             "iconURL": "https://github.com/WeansHHN/troll/blob/main/icon/Lavochka.png?raw=true",
             "name": "Lavochka",
             "version":"1.0",
