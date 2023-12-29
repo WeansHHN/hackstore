@@ -1,9 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch&family=Epilogue:wght@500&display=swap');
+@font-face {
+    font-family: 'Font';
+    src: url('../SFUI.woff') format('truetype');
+}
 
 body {
+    font-family: 'Font', sans-serif;
     top: 0;
     margin: 0;
-    font-family: 'Chakra Petch', sans-serif;
     background-color: #000000;
 }
 
