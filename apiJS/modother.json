@@ -14,6 +14,30 @@
             "version": "Chưa xác định",
             "description": "Anh em tải File này về rồi giải nén ra mà mod nhé, hướng dẫn có rồi nhé!",
             "downloadURL": "https://github.com/KevinPhampn/Up-iPA/releases/download/ipa/Documents.zip"
+        },
+
+        {
+            "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWuXMSkCNGmEzs8NfvidUSwB7Vj4fTl5kDuQ&usqp=CAU",
+            "name": "KillAds",
+            "version": "Chưa xác định",
+            "description": "Tiêm vào ipa và sử dụng:vv",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/HackStoreIPA/KillAds.dylib"
+        },
+
+        {
+            "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWuXMSkCNGmEzs8NfvidUSwB7Vj4fTl5kDuQ&usqp=CAU",
+            "name": "NoAds",
+            "version": "Chưa xác định",
+            "description": "Tiêm vào ipa và sử dụng:vv",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/HackStoreIPA/NoAds.dylib"
+        },
+
+        {
+            "iconURL": "https://hhnipa.github.io/img/igg.png",
+            "name": "iGameGods Deb",
+            "version": "0.4.3",
+            "description": "Tiêm vào ipa và sử dụng:vv",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/HackStoreIPA/igamegod.v0.4.3.deb"
         }
     ]
 }

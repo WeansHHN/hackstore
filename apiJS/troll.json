@@ -107,9 +107,9 @@
         {
             "iconURL": "https://github.com/WeansHHN/troll/blob/main/icon/TrollSpeed.png?raw=true",
             "name": "TrollSpeed",
-            "version": "1.8.2",
+            "version": "1.9.5",
             "description": "Hiển thị tốc độ tải lên và tải xuống bên dưới thanh trạng thái. Dựa trên TrollStore của opa334.",
-            "downloadURL": "https://github.com/Lessica/TrollSpeed/releases/download/v1.8.2/TrollSpeed_1.8.2.tipa"
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/HackStoreIPA/TrollSpeed_1.9.5@.tipa"
         },
 
         {
@@ -358,6 +358,46 @@
             "version":"1.0.3",
             "description": "Ứng dụng tùy chỉnh thanh trạng ",
             "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/StatusMagic.tipa"
+        },
+
+        {
+            "iconURL": "https://github.com/WeansHHN/troll/blob/main/icon/SwiftTop.png?raw=true",
+            "name": "SwiftTop",
+            "version":"0.3",
+            "description": "Là sự kết hợp giữa AppCommander và CoCoaTop, giao diện bắt mắt.",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/HackStoreIPA/SwiftTop.tipa"
+        },
+
+        {
+            "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCXTvp18BFupt82nQkLN-z90dNSRh_B1m_aw&usqp=CAU",
+            "name": "CocoaTop",
+            "version":"1.0",
+            "description": "CocoaTop: Trình xem quy trình cho GUI iOS",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/HackStoreIPA/CocoaTop_TS.tipa"
+        },
+
+        {
+            "iconURL": "https://github.com/WeansHHN/troll/blob/main/icon/Paste.png?raw=true",
+            "name": "Paste",
+            "version":"4.0.1",
+            "description": "Bây giờ Dán sẽ giữ mọi thứ bạn sao chép để cho phép bạn sử dụng lịch sử khay nhớ tạm bất cứ khi nào bạn cần trên tất cả các thiết bị của mình!",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/HackStoreIPA/Paste-4.0.1.MacKed.tipa"
+        },
+
+        {
+            "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCXTvp18BFupt82nQkLN-z90dNSRh_B1m_aw&usqp=CAU",
+            "name": "CocoaTop",
+            "version":"1.0",
+            "description": "CocoaTop: Trình xem quy trình cho GUI iOS",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/HackStoreIPA/CocoaTop_TS.tipa"
+        },
+
+        {
+            "iconURL": "https://github.com/WeansHHN/troll/blob/main/icon/Lavochka.png?raw=true",
+            "name": "Lavochka",
+            "version":"1.0",
+            "description": "CocoaTop: Trình xem quy trình cho GUI iOS",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/HackStoreIPA/Lavochka.tipa"
         }
     ]
 }
