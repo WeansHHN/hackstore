@@ -33,6 +33,14 @@
         },
 
         {
+            "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWuXMSkCNGmEzs8NfvidUSwB7Vj4fTl5kDuQ&usqp=CAU",
+            "name": "AdsSpeed",
+            "version": "Chưa xác định",
+            "description": "Tiêm vào ipa và sử dụng:vv",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/HackStoreIPA/adspeed.dylib"
+        },
+
+        {
             "iconURL": "https://hhnipa.github.io/img/igg.png",
             "name": "iGameGods Deb",
             "version": "0.4.3",
