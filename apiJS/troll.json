@@ -388,7 +388,7 @@
             "iconURL": "https://github.com/WeansHHN/troll/blob/main/icon/Lavochka.png?raw=true",
             "name": "Lavochka",
             "version":"1.0",
-            "description": "CocoaTop: Trình xem quy trình cho GUI iOS",
+            "description": "Tiêm tweak vào ứng dụng không cần bootstrap, beta project của @lavochka04",
             "downloadURL": "https://github.com/WeansHHN/troll/releases/download/HackStoreIPA/Lavochka.tipa"
         }
     ]
