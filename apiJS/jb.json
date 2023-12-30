@@ -36,7 +36,7 @@
             "iconURL": "https://hhnipa.github.io/img/xina.png",
             "name": "XinaA15",
             "version": "2.1.5.2",
-            "description": "Tính năng: \n - Lưu video không có hình mờ \n - Lưu âm thanh \n - Lưu ảnh hồ sơ \n - Tự động phát video tiếp theo \n - Hiển thị điều khiển video \n - Khả năng tải lên video chất lượng cao \n - Ẩn giao diện người dùng \n - Thay đổi địa điểm \n - Hiển thị mã quốc gia \n - Sao chép tên người dùng, mô tả, tên tài khoản \n - Loại bỏ quảng cáo \n -  Tùy chỉnh người theo dõi và theo dõi \n - Cài đặt quyền riêng tư cho Ứng dụng",
+            "description": "Bản beta công khai iOS 15.0-15.4.1, bẻ khóa bán không dây",
             "downloadURL": "https://github.com/NotDarkn/XinaA15/releases/download/2.1.5.2/XinaA12.2.1.5.2.ipa"
         },
 
