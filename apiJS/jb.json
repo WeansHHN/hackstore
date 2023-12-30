@@ -1,0 +1,59 @@
+{
+    "apps": [
+        {
+            "iconURL": "https://raw.githubusercontent.com/WeansHHN/troll/main/icon/BootStrapBeta.JPG",
+            "name": "Bootstrap",
+            "version": "Beta 2",
+            "description": "Một bootstrap đầy đủ tính năng dành cho ios14.0-17.0, A8-A17,M1+M2. (hiện đang được thử nghiệm trên ios15.0~ios17.0)",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/HackStoreIPA/Bootstrap_beta2@.M.tipa"
+        },
+
+        {
+            "iconURL": "https://raw.githubusercontent.com/WeansHHN/troll/main/icon/taurine.jpg",
+            "name": "Taurine",
+            "version": "1.1.7-3",
+            "description": "All A8-A14 devices on iOS 14.0-14.8.1",
+            "downloadURL": "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.7-3/Taurine.1.1.7-3.ipa"
+        },
+
+        {
+            "iconURL": "https://hhnipa.github.io/img/ulc.png",
+            "name": "Unc0ver Laucher",
+            "version": "NULL",
+            "description": "Trình khởi chạy cho Unc0ver.",
+            "downloadURL": "https://ipa.cypwn.xyz/ipas/Unc0verLauncher_TS.ipa"
+        },
+
+        {
+            "iconURL": "https://panda-helper.org/wp-content/uploads/2023/10/uncover-unc0ver-Icon-app-200px-120x120.png",
+            "name": "Unc0ver",
+            "version": "8.0.2",
+            "description": "Công cụ bẻ khóa tiên tiến nhất, iOS 11.0 - 14.8",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/HackStoreIPA/unc0ver_Release_8.0.2.ipa"
+        },
+
+        {
+            "iconURL": "https://hhnipa.github.io/img/xina.png",
+            "name": "XinaA15",
+            "version": "2.1.5.2",
+            "description": "Tính năng: \n - Lưu video không có hình mờ \n - Lưu âm thanh \n - Lưu ảnh hồ sơ \n - Tự động phát video tiếp theo \n - Hiển thị điều khiển video \n - Khả năng tải lên video chất lượng cao \n - Ẩn giao diện người dùng \n - Thay đổi địa điểm \n - Hiển thị mã quốc gia \n - Sao chép tên người dùng, mô tả, tên tài khoản \n - Loại bỏ quảng cáo \n -  Tùy chỉnh người theo dõi và theo dõi \n - Cài đặt quyền riêng tư cho Ứng dụng",
+            "downloadURL": "https://github.com/NotDarkn/XinaA15/releases/download/2.1.5.2/XinaA12.2.1.5.2.ipa"
+        },
+
+        {
+            "iconURL": "https://ellekit.space/dopamine/assets/icon.png",
+            "name": "Dopamine",
+            "version": "1.1.11",
+            "description": "Jailbreak arm64e không root cho iOS 15.0 - 15.4.1.",
+            "downloadURL": "https://github.com/opa334/Dopamine/releases/download/1.1.11/Dopamine.tipa"
+        },
+      
+        {
+            "iconURL": "https://raw.githubusercontent.com/pwned4ever/Freya15/main/FREYA15/Assets.xcassets/AppIcon.appiconset/freya12_1024x1024.jpg",
+            "name": "Freya15",
+            "version": "1.0.9-i",
+            "description": "Jailbreak không cần root iOS <=15.1 cho một số thiết bị và một số phiên bản. thêm phần bù?",
+            "downloadURL": "https://github.com/pwned4ever/Freya15/releases/download/v1.0.9-i/Freya15.ipa"
+        }
+    ]
+}
