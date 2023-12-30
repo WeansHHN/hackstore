@@ -19,7 +19,7 @@
         {
             "iconURL": "https://raw.githubusercontent.com/WeansHHN/hackstore/main/apiJS/Image/Abox.jpg",
             "name": "Abox",
-            "version": "1.6.",
+            "version": "1.6.3",
             "description": "Ứng dụng sign IPA",
             "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/ABox_v1.6.3.ipa"
         },
