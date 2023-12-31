@@ -47,6 +47,22 @@
             "description": "Jailbreak arm64e không root cho iOS 15.0 - 15.4.1.",
             "downloadURL": "https://github.com/opa334/Dopamine/releases/download/1.1.11/Dopamine.tipa"
         },
+
+        {
+            "iconURL": "NULL",
+            "name": "Meobrek2",
+            "version": "1.1.3",
+            "description": "Bản Jailbreak Rootless meowbrek2, hỗ trợ Jailbreak meo meo trên iOS 15.0 – iOS 15.7.6 cho A9 – A11 (iPhone 6S - iPhone X). Tuy nhiên, bạn cần thiết lập jailbreak Rootless bằng Palera1n để jailbreak lại bằng meo.",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/HackStoreIPA/meowbrek2_1.1.3.tipa"
+        },
+
+        {
+            "iconURL": "https://nekojb.hhls.xyz/nekoJB.jpg",
+            "name": "NekoJB",
+            "version": "Beta 2.5",
+            "description": "Jailbreak Rootless. Hỗ trợ tất cả các thiết bị arm64 chạy iOS 15.0 - 15.7.6 (iPhone 6S - iPhone X) đều được hỗ trợ. Tuy nhiên, bạn cần thiết lập jailbreak Rootless bằng Palera1n để jailbreak lại bằng meo.",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/HackStoreIPA/nekojb-public-beta-2.5.ipa"
+        },
       
         {
             "iconURL": "https://raw.githubusercontent.com/pwned4ever/Freya15/main/FREYA15/Assets.xcassets/AppIcon.appiconset/freya12_1024x1024.jpg",
