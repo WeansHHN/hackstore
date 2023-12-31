@@ -75,9 +75,9 @@
         {
             "iconURL": "https://hhnipa.github.io/img/pa.png",
             "name": "PicsArt Pro",
-            "version": "20.0.3",
+            "version": "23.9.3",
             "description": "Unlock các tính năng Pro",
-            "downloadURL": "https://github.com/34306/TrollStoreiPA/releases/download/TS_DailyiPA/PicsArt++_20.0.3.ipa"
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/HackStoreIPA/PicsArt_23.9.3_1704033312.ipa"
         },
 
         {
@@ -166,6 +166,22 @@
             "version": "1.0",
             "description": " Phiên bản webkit của Web đọc hentaivn",
             "downloadURL": "https://github.com/WeansHHN/troll/releases/download/HackStoreIPA/HenTaiVN-1.0.ipa"
+        },
+     
+        {
+            "iconURL": "https://hhnipa.github.io/img/dur.png",
+            "name": "DU Recorder",
+            "version": "1.7.8",
+            "description": "Ứng dụng ghi màn hình và phát trực tiếp, được mở khóa Pre.",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/HackStoreIPA/DU.Recorder_1.7.8_1704033678.ipa"
+        },
+     
+        {
+            "iconURL": "https://cdn.tgdd.vn/GameApp/3/242841/Screentshots/tai-bilibili-ung-dung-xem-video-anime-hd-242841-logo-20-06-2021.png",
+            "name": "Bilibili",
+            "version": "2.70.0",
+            "description": "Ứng dụng xem Anime, được xóa quảng cáo và mở khóa 1080, 4k.",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/HackStoreIPA/bilibili_2.70.0_1704032505.ipa"
         }
     ]
 }
