@@ -34,6 +34,13 @@
             "name": "Icon Trollstore Giáng Sinh V3",
             "description": "Tải file về và mở bằng Trollstore, khởi động lại và sử dụng.",
             "downloadURL": "https://github.com/WeansHHN/troll/releases/download/HackStoreIPA/TrollStoreMerriV3.tar"
+        },
+        {
+            "iconURL": "https://raw.githubusercontent.com/WeansHHN/troll/main/icon/NewYear.jpg",
+            "imageDemo": "https://raw.githubusercontent.com/WeansHHN/troll/main/icon/NewYear1.jpg",
+            "name": "Icon TrollStore NewYear",
+            "description": "Tải file về và mở bằng Trollstore, khởi động lại và sử dụng.",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Hackstore2/TrollStore_NewYear.tar"
         }
     ]
 }
