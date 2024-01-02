@@ -67,9 +67,9 @@
         {
             "iconURL": "https://raw.githubusercontent.com/WeansHHN/hackstore/main/apiJS/Image/yt.png",
             "name": "uYouPlus",
-            "version": "17.35.3_2.1",
-            "description": "Chặn quảng cáo, xem video tắt màn hình.",
-            "downloadURL": "https://github.com/34306/TrollStoreiPA/releases/download/TS_DailyiPA/uYouPlus_17.35.3_2.1.ipa"
+            "version": "17.39.5",
+            "description": "Chặn quảng cáo, xem video tắt màn hình. Fix đăng nhập Google.",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Hackstore2/YouTube_17.39.5.ipa"
         },
 
         {
