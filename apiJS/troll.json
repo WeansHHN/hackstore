@@ -390,6 +390,14 @@
             "version":"1.2",
             "description": "Reveil là một công cụ phân tích bảo mật và hệ thống nguồn mở được thiết kế riêng cho iOS, lấy cảm hứng từ Unveil của Pwn20wnd. Công cụ này vừa được phát hành và hỗ trợ các thiết bị TrollStore",
             "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Hackstore2/Reveil_1.2.tipa"
+        },
+
+        {
+            "iconURL": "https://raw.githubusercontent.com/WeansHHN/troll/main/icon/EDD95D7E-1947-4008-8958-3B89E7C8D4C1.png",
+            "name": "QuantumultX",
+            "version":"1.4.2",
+            "description": "QuantumultX\n- Viết lại\n- MITM\n- Hoạt động kết nối mạng\n- Chụp gói",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Hackstore2/Quantumult.X_1.4.2.ipa"
         }
     ]
 }
