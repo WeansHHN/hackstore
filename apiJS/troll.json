@@ -171,7 +171,7 @@
         {
             "iconURL": "https://raw.githubusercontent.com/WeansHHN/hackstore/main/apiJS/Image/trollbox.png",
             "name": "TrollBox",
-            "version": "Beta 0.2",
+            "version": "0.2",
             "description": "Ứng dụng tinh chỉnh iphone, khai thác lỗ hổng bảo mật KFD và MDC.",
             "downloadURL": "https://github.com/c22dev/TrollBox/releases/download/0.2/TrollBox.tipa"
         },
