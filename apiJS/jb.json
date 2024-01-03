@@ -3,9 +3,9 @@
         {
             "iconURL": "https://raw.githubusercontent.com/WeansHHN/troll/main/icon/BootStrapBeta.JPG",
             "name": "Bootstrap",
-            "version": "Beta 2",
+            "version": "Beta 3.1",
             "description": "Một bootstrap đầy đủ tính năng dành cho ios14.0-17.0, A8-A17,M1+M2. (hiện đang được thử nghiệm trên ios15.0~ios17.0)",
-            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/HackStoreIPA/Bootstrap_beta2@.M.tipa"
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Hackstore2/Bootstrap.Beta.3.1.tipa"
         },
 
         {
@@ -59,9 +59,9 @@
         {
             "iconURL": "https://nekojb.hhls.xyz/nekoJB.jpg",
             "name": "NekoJB",
-            "version": "Beta 2.5",
+            "version": "0.1.0 Beta 4",
             "description": "Jailbreak Rootless. Hỗ trợ tất cả các thiết bị arm64 chạy iOS 15.0 - 15.7.6 (iPhone 6S - iPhone X) đều được hỗ trợ. Tuy nhiên, bạn cần thiết lập jailbreak Rootless bằng Palera1n để jailbreak lại bằng meo.",
-            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/HackStoreIPA/nekojb-public-beta-2.5.ipa"
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Hackstore2/nekojb-0.1.0-beta4-dev2.ipa"
         },
       
         {
