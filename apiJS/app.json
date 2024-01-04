@@ -20,7 +20,7 @@
             "iconURL": "https://hhnipa.github.io/img/tt.png",
             "name": "Tiktok BH Plus",
             "version": "32.8.0",
-            "description": "Tính năng: \n - Lưu video không có hình mờ \n - Lưu âm thanh \n - Lưu ảnh hồ sơ \n - Tự động phát video tiếp theo \n - Hiển thị điều khiển video \n - Khả năng tải lên video chất lượng cao \n - Ẩn giao diện người dùng \n - Thay đổi địa điểm \n - Loại bỏ quảng cáo \n -  Tùy chỉnh người theo dõi và theo dõi \n - Cài đặt quyền riêng tư cho Ứng dụng v.v. \n Lưu ý: * Đừng đổi Bundle, sẽ ko login được hoặc bị một số trường hợp bị văng đấy!. Nên Login bằng Tiktok ID nha, đừng Login số phone, hoặc Email, v.v.",
+            "description": "Tính năng: \n - Lưu video không có hình mờ \n - Lưu âm thanh \n - Lưu ảnh hồ sơ \n - Tự động phát video tiếp theo \n - Hiển thị điều khiển video \n - Khả năng tải lên video chất lượng cao \n - Ẩn giao diện người dùng \n - Thay đổi địa điểm \n - Loại bỏ quảng cáo \n -  Tùy chỉnh người theo dõi và theo dõi \n - Cài đặt quyền riêng tư cho Ứng dụng v.v. \n * Lưu ý: \n - Đừng đổi Bundle, sẽ ko login được hoặc bị một số trường hợp bị văng đấy!. Nên Login bằng Tiktok ID nha, đừng Login số phone, hoặc Email, v.v.",
             "downloadURL": "https://github.com/KevinPhampn/Up-iPA/releases/download/ipa/Tiktok.BH.Plus_HAHiOS._32.8.0.ipa"
         },
 
