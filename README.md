@@ -1,21 +1,21 @@
 # Hackstore
 
-### Usage:
+### Sử Dụng:
 
-Welcome to the Hackstore! This repository is a hub for various applications and tools primarily designed to enhance your experience with TrollStore and other functionalities. Here’s a breakdown of what you can do with this repository:
+Chào mừng bạn đến với Hackstore! Thư viện này là nơi tập trung các ứng dụng và công cụ đa dạng, chủ yếu được thiết kế để tăng cường trải nghiệm của bạn với TrollStore và các tính năng khác. Dưới đây là mô tả về những gì bạn có thể làm với thư viện này:
 
-- **Download Support Applications for TrollStore**: Explore and obtain additional applications that support and complement the TrollStore ecosystem.
+- **Tải Xuống Ứng Dụng Hỗ Trợ Cho TrollStore**: Khám phá và tải về các ứng dụng bổ sung hỗ trợ và bổ sung cho hệ sinh thái TrollStore.
 
-- **Download 3rd Party Games**: Access a collection of hacked or modified third-party games available for download.
+- **Tải Xuống Game Ứng Dụng Thứ Ba**: Truy cập vào một bộ sưu tập các game ứng dụng của bên thứ ba đã được hack hoặc chỉnh sửa để tải xuống.
 
-- **Download 3rd Party Hack App**: Find and acquire applications that provide hacks or modifications for various purposes.
+- **Tải Xuống Ứng Dụng Hack Thứ Ba**: Tìm và có được các ứng dụng cung cấp hack hoặc chỉnh sửa cho nhiều mục đích khác nhau.
 
-- **And Countless Other Amenities...**: Explore a variety of other features and utilities tailored to elevate your device experience.
+- **Và Vô Số Tiện Ích Khác...**: Khám phá các tính năng và tiện ích đa dạng khác nhằm nâng cao trải nghiệm của bạn trên thiết bị.
 
-### Support:
+### Hỗ Trợ:
 
-Hackstore is compatible with iOS 14 and newer versions, ensuring compatibility and support for the latest iOS updates.
+Hackstore tương thích với iOS 14 và các phiên bản mới hơn, đảm bảo tính tương thích và hỗ trợ cho các bản cập nhật iOS mới nhất.
 
-Feel free to explore, contribute, or reach out for support as needed. Enjoy hacking and enhancing your experience with the Hackstore!
+Hãy thoải mái khám phá, đóng góp ý kiến, hoặc liên hệ để được hỗ trợ khi cần. Hãy tận hưởng việc hack và tăng cường trải nghiệm của bạn với Hackstore!
 
-For further queries or assistance, you can reach us at [insert contact information].
+Để được hỗ trợ thêm hoặc biết thêm thông tin, bạn có thể liên hệ với chúng tôi qua [thông tin liên hệ].
