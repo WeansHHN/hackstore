@@ -106,6 +106,14 @@
 
         {
             "iconURL": "https://github.com/leminlimez/Helium/blob/main/src/assets/credits/leminlimez.png?raw=true",
+            "name": "Helium (Việt hóa)",
+            "version": "2.0.2",
+            "description": "Helium là một hệ thống tiện ích Thanh trạng thái mới dành cho TrollStore và các thiết bị đã bẻ khóa.",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Hackstore2/HeliumVH_.2.0.2.tipa"
+        },
+
+        {
+            "iconURL": "https://github.com/leminlimez/Helium/blob/main/src/assets/credits/leminlimez.png?raw=true",
             "name": "Helium (Chữ trắng)",
             "version": "2.0.2",
             "description": "Helium là một hệ thống tiện ích Thanh trạng thái mới dành cho TrollStore và các thiết bị đã bẻ khóa.",
@@ -414,6 +422,30 @@
             "version":"1.0",
             "description": "Tiện ích hack CopyLog (phiên bản TrollStore).\n\nYêu cầu:\n- cài đặt qua TrollStore\n- BundleID gốc của chính chương trình.\n\nHướng dẫn: cài đặt tiện ích hack và bấm Crack. Đợi cho đến khi mọi thứ được thực hiện.",
             "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Hackstore2/CLCracker.ipa"
+        },
+
+        {
+            "iconURL": "NULL",
+            "name": "ytpatch 1",
+            "version":"1.0",
+            "description": "Nếu Youtube gặp sự cố, thử 2 phiên bản ở bên dưới.\n\n📺 Youtube chặn quảng cáo, phát nền :\n\n🟢Tiêm trực tiếp vào Youtube Appstore\n🟢 Nhấn Patch Youtube để tiêm tweak vào Youtube.\n🟢 Unptach Youtube tức là hủy tiêm\n🟢 Có thể sẽ cần Respring hoặc khởi động lại để có hiệu lực.",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Hackstore2/ytpatch_1.tipa"
+        }
+
+        {
+            "iconURL": "NULL",
+            "name": "ytpatch 2",
+            "version":"1.0",
+            "description": "Nếu Youtube gặp sự cố, thử 2 phiên bản ở bên dưới.\n\n📺 Youtube chặn quảng cáo, phát nền :\n\n🟢Tiêm trực tiếp vào Youtube Appstore\n🟢 Nhấn Patch Youtube để tiêm tweak vào Youtube.\n🟢 Unptach Youtube tức là hủy tiêm\n🟢 Có thể sẽ cần Respring hoặc khởi động lại để có hiệu lực.",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Hackstore2/ytpatch_2.tipa"
+        },
+
+        {
+            "iconURL": "NULL",
+            "name": "discpatch",
+            "version":"1.0",
+            "description": "📺 Discord Pre :\n\n🟢Tiêm trực tiếp vào Youtube Appstore\n🟢 Nhấn Patch để tiêm tweak vào Discord.\n🟢 Unptach tức là hủy tiêm\n🟢 Có thể sẽ cần Respring hoặc khởi động lại để có hiệu lực.",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Hackstore2/discpatch.tipa"
         }
     ]
 }
