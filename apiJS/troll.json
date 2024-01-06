@@ -411,7 +411,7 @@
         {
             "iconURL": "https://raw.githubusercontent.com/WeansHHN/troll/main/icon/CopyLog.PNG",
             "name": "CopyLog",
-            "version":"NULL",
+            "version":"1.6",
             "description": "Plugin jailbreak Copylog hỗ trợ TrollStore ! !\n\n🟠 Công cụ quản lý clipboard\n🟠 Vuốt bàn phím lên để truy cập clipboard\n🟠 Hỗ trợ thu thập và sao chép hình ảnh\n🟠 Có vẻ như nó chỉ thích ứng với phương thức nhập của hệ thống \n\nphiên bản TrollStore",
             "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Hackstore2/CopyLogTS.ipa"
         },
@@ -421,7 +421,7 @@
             "name": "CLCracker",
             "version":"1.0",
             "description": "Tiện ích hack CopyLog (phiên bản TrollStore).\n\nYêu cầu:\n- cài đặt qua TrollStore\n- BundleID gốc của chính chương trình.\n\nHướng dẫn: cài đặt tiện ích hack và bấm Crack. Đợi cho đến khi mọi thứ được thực hiện.",
-            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Hackstore2/CLCracker.ipa"
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Hackstore2/CLCracker-Release.tipa"
         },
 
         {
