@@ -387,9 +387,9 @@
         {
             "iconURL": "https://raw.githubusercontent.com/WeansHHN/troll/main/icon/Reveil.jpg",
             "name": "Reveil",
-            "version":"1.2",
+            "version":"1.2.5",
             "description": "Reveil là một công cụ phân tích bảo mật và hệ thống nguồn mở được thiết kế riêng cho iOS, lấy cảm hứng từ Unveil của Pwn20wnd. Công cụ này vừa được phát hành và hỗ trợ các thiết bị TrollStore",
-            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Hackstore2/Reveil_1.2.tipa"
+            "downloadURL": "https://github.com/Lessica/Reveil/releases/download/v1.2.5/Reveil_1.2.5.tipa"
         },
 
         {
