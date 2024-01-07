@@ -16,7 +16,15 @@
             "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/GBox_v4.6.ipa"
         },
 
-           {
+        {
+            "iconURL": "https://play-lh.googleusercontent.com/qw3wOUi4Tztv_y0aEBwyJ-hAD6BY6Ftv16TXq2yczjOIFYLKLqmhLqzcEWKWExqauro",
+            "name": "FlixHub Movies",
+            "version": "3.0",
+            "description": "- Một ứng dụng xem phim miễn phí không có quảng cáo đặc sắc. \n - Có Vietsub cho mọi người \n - Full HD không che \n - Loại bỏ quảng cáo khi đang xem \n * Bao gồm những Apps xem phim như: \n - Netflix \n - AppleTV \n - Pixar \n - Disney \n - Prime Video v.v. ",
+            "downloadURL": "https://github.com/KevinPhampn/Up-iPA/releases/download/ipa/FlixHub.Movies_3.0.ipa"
+        },
+
+        {
             "iconURL": "https://hhnipa.github.io/img/tt.png",
             "name": "Tiktok BH Plus",
             "version": "32.8.0",
