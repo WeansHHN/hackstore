@@ -409,6 +409,14 @@
         },
 
         {
+            "iconURL": "https://ios.codevn.net/wp-content/uploads/2022/10/Shadowrocket.png",
+            "name": "Shadowrocket",
+            "version":"2.2.44",
+            "description": "• Ứng dụng trả phí trên Appstore \n• Lưu ý chỉ dành cho hắc-cơ",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Hackstore2/Shadowrocket_2.2.44_.tipa"
+        },
+
+        {
             "iconURL": "https://raw.githubusercontent.com/WeansHHN/troll/main/icon/CopyLog.PNG",
             "name": "CopyLog",
             "version":"1.6",
