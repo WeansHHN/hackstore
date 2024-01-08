@@ -9,6 +9,14 @@
         },
 
         {
+            "iconURL": "https://raw.githubusercontent.com/hrtowii/Serotonin/A12restart/artwork/serotonin-precomposed.png",
+            "name": "Serotonin",
+            "version": "1.0.0",
+            "description": "(Not/Semi)-Jailbreak dùng với Bootstrap cho A12+",
+            "downloadURL": "https://github.com/hrtowii/Serotonin/releases/download/1.0.0/Serotonin.tipa"
+        },
+
+        {
             "iconURL": "https://raw.githubusercontent.com/WeansHHN/troll/main/icon/taurine.jpg",
             "name": "Taurine",
             "version": "1.1.7-3",
