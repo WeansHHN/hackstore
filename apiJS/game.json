@@ -107,7 +107,7 @@
             "iconURL": "https://github.com/ppy/osu/blob/master/assets/lazer.png?raw=true",
             "name": "Osu",
             "version": "2023.1231.0",
-            "description": "Osu",
+            "description": "Osu! - Rhythm is just a *click* away! With Ouendan/EBA, Taiko and original gameplay modes, as well as a fully functional level editor.",
             "downloadURL": "https://github.com/ppy/osu/releases/download/2023.1231.0/osu.iOS.ipa"
         }
     ]
