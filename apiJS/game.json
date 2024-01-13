@@ -102,6 +102,13 @@
             "version": "2.32.0",
             "description": "-Trò Chơi Nuôi Mèo Hoạt Hình Siêu Dễ Thương.\n-Tương Tác Với Các Bé Mèo Đáng Yêu\n-Nhạc Nền Và Âm thanh ASMR Đầy Thư Giãn\n-Trò Chơi Thú Cưng Mô Phỏng Kinh Doanh Nhanh Chóng Và Dễ Dàng.",
             "downloadURL": "https://github.com/WeansHHN/troll/releases/download/HackStoreIPA/Cats.Soup_2.32.0_1703382617.ipa"
+        },
+        {
+            "iconURL": "https://github.com/ppy/osu/blob/master/assets/lazer.png?raw=true",
+            "name": "Osu",
+            "version": "2023.1231.0",
+            "description": "Osu",
+            "downloadURL": "https://github.com/ppy/osu/releases/download/2023.1231.0/osu.iOS.ipa"
         }
     ]
 }
