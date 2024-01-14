@@ -8,6 +8,14 @@
             "downloadURL": "https://dhinakg.github.io/files/apps/TrollInstallerMDC/TrollInstallerMDC.ipa"
         },
 
+         {
+            "iconURL": "https://raw.githubusercontent.com/WeansHHN/hackstore/main/apiJS/Image/TrollStar%2C.jpg",
+            "name": "TrollStar",
+            "version": "1.1",
+            "description": "Công cụ tìm bản vá động thử nghiệm hiện đang hoạt động (bản vá chỉ hoạt động với khai thác Landa/physpuppet), vì vậy...\n\nĐược cho là hoạt động:\niOS/iPadOS 16.0-16.6.1",
+            "downloadURL": "https://github.com/34306/TrollStar/releases/download/1.1/TrollStar_1.1.ipa"
+        },
+
         {
             "iconURL": "https://pbs.twimg.com/profile_images/1120870317319053313/x7u1wDn5_400x400.jpg",
             "name": "Misaka",
