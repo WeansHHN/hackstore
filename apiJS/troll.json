@@ -25,6 +25,14 @@
         },
 
         {
+            "iconURL": "https://private-user-images.githubusercontent.com/102235607/292650709-0feaa3eb-2c27-4cc0-9fa8-704db9f0a40f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDU0MTIzOTksIm5iZiI6MTcwNTQxMjA5OSwicGF0aCI6Ii8xMDIyMzU2MDcvMjkyNjUwNzA5LTBmZWFhM2ViLTJjMjctNGNjMC05ZmE4LTcwNGRiOWYwYTQwZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDExNlQxMzM0NTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05NzRjN2M2MWMzNjZlMmZkZjk1NTQ4MTQwNDliNGM2NThhOWI4NTIxMmVkNzMzODdhMDhjZDBhOWFkYTI0ZmIyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.0tkUFNWfbG2VHRnSxSwWeoe2inqRZ9OZzQEuFLRjg4M",
+            "name": "Geranium",
+            "version": "1.0.4",
+            "description": "Để cài đặt Geranium, bạn phải có TrollStore 1.3 trở lên và thiết bị chạy iOS 15 trở lên (nếu TrollStore hỗ trợ). Tải xuống bản phát hành mới nhất từ ​​tab phát hành và mở nó trong TrollStore. Sau đó, hãy làm theo quá trình thiết lập! Nếu bạn đang dùng TrollStore 2.0.9, vui lòng cập nhật lên phiên bản mới nhất từ ​​ứng dụng TrollStore, nếu không ứng dụng này sẽ không hoạt động.",
+            "downloadURL": "https://github.com/c22dev/Geranium/releases/download/1.0.4/Geranium.tipa"
+        },
+
+        {
             "iconURL": "https://raw.githubusercontent.com/WeansHHN/hackstore/main/apiJS/Image/filza.png",
             "name": "Filza No URL",
             "version": "4.0",
