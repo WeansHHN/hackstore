@@ -19,9 +19,9 @@
         {
             "iconURL": "https://pbs.twimg.com/profile_images/1120870317319053313/x7u1wDn5_400x400.jpg",
             "name": "Misaka",
-            "version": "8.2.1",
+            "version": "8.2.2",
             "description": "Ứng dụng tinh chỉnh iphone, cài đặt Trollstore, khai thác lỗ hổng bảo mật KFD và MDC.",
-            "downloadURL": "https://github.com/straight-tamago/misaka/releases/download/8.2.1/misaka-v8.2.1.ipa"
+            "downloadURL": "https://github.com/straight-tamago/misaka/releases/download/8.2.2/misaka-v8.2.2.ipa"
         },
 
         {
@@ -476,7 +476,7 @@
             "iconURL": "https://raw.githubusercontent.com/WeansHHN/hackstore/main/apiJS/Image/IPCC%20Replacer.jpg",
             "name": "IPCC Replacer VH",
             "version":"3.0.3 Vh",
-            "description": "📺 Discord Pre :\n\n🟢Tiêm trực tiếp vào Youtube Appstore\n🟢 Nhấn Patch để tiêm tweak vào Discord.\n🟢 Unptach tức là hủy tiêm\n🟢 Có thể sẽ cần Respring hoặc khởi động lại để có hiệu lực.",
+            "description": "Fix IPCC",
             "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Hackstore2/IPCC.Replacer.3.0.3.Vh.tipa"
         }
     ]
