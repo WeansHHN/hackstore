@@ -8,6 +8,14 @@
             "downloadURL": "https://dhinakg.github.io/files/apps/TrollInstallerMDC/TrollInstallerMDC.ipa"
         },
 
+        {
+            "iconURL": "https://raw.githubusercontent.com/WeansHHN/hackstore/main/apiJS/Image/TrollStore.jpg",
+            "name": "TrollMisaka",
+            "version": "2.0 Beta",
+            "description": "Ứng dụng dùng để cài đặt TrollStore, Supported 15.7.2- 15.8.1",
+            "downloadURL": "https://github.com/straight-tamago/TrollMisaka/releases/download/2.0-Beta/TrollMisaka-v2.0.ipa"
+        },
+
          {
             "iconURL": "https://raw.githubusercontent.com/WeansHHN/hackstore/main/apiJS/Image/TrollStar%2C.jpg",
             "name": "TrollStar",
