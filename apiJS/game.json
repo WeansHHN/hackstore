@@ -1,6 +1,13 @@
 {
     "apps": [
         {
+            "iconURL": "https://yt3.googleusercontent.com/TkS_SRrMDXl-r_0ZoyllDOQlHL5mNQNLAOuZ2zVVMh9Yq-Ggzf82x6omxY7FsN5ghIxNj-1LZA=s900-c-k-c0x00ffffff-no-rj",
+            "name": "ArceusX | iOS",
+            "version": "2.605.660",
+            "description": "- Speed \n - Jump High \n - Cho phép bạn nhập scripts (một vài scripts nặng sẽ bị văng!) \n - Đã fix Crash tốt hơn nhiều một tí!",
+            "downloadURL": "#"
+        },
+        {
             "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk5FHTaju-cdpR0wUvOg1mQVUEI4XItYlaXA&usqp=CAU",
             "name": "Liên Quân Mobile Hack Fix",
             "version": "1.52.11085608",
