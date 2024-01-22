@@ -65,6 +65,14 @@
         },
 
         {
+            "iconURL": "https://github.com/PoomSmart/TrollLEDs/blob/main/Resources/AppIcon60x60%402x.png",
+            "name": "TrollLes",
+            "version":"1.4",
+            "description": "- Có thể chụp ảnh khi đang mở đèn \n - Có thêm 1 loại đèn pin hổ phách (màu cam)",
+            "downloadURL": "https://github.com/KevinPhampn/Up-iPA/releases/download/ipa/TrollLEDs_1.4.tipa"
+        },
+
+        {
             "iconURL": "https://raw.githubusercontent.com/WeansHHN/hackstore/main/apiJS/Image/RespringCC.jpg",
             "name": "RespringCC",
             "version":"1.0",
