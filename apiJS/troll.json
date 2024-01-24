@@ -65,6 +65,14 @@
         },
 
         {
+            "iconURL": "https://pbs.twimg.com/profile_images/710607196497678336/gcxQW6z3_400x400.jpg",
+            "name": "ShadowRocket",
+            "version":"New Version",
+            "description": "- Đã mua trên với giá 2.99$",
+            "downloadURL": "https://github.com/KevinPhampn/Up-iPA/releases/download/ipa/Shadowrocket.tipa"
+        },
+
+        {
             "iconURL": "https://raw.githubusercontent.com/PoomSmart/TrollLEDs/main/Resources/AppIcon60x60%402x.png",
             "name": "Troll Leds",
             "version":"1.4",
