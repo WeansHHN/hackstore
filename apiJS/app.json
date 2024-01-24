@@ -15,8 +15,24 @@
             "description": "Ứng dụng sign IPA",
             "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/GBox_v4.6.ipa"
         },
+     
+        {       
+            "iconURL": "https://hhnipa.github.io/img/vlc.png",
+            "name": "Voloco",
+            "version": "8.12.2",
+            "description": "- Unlocked Premium \n- Chỉnh giọng của mình với nhiều tính năng khác \n- Chỉnh AutoTune như 'MCK, Vsoul, Tommy Tèo, v.v.' \n⚠️This App Cracked By HoangAnh⚠️",
+            "downloadURL": "https://github.com/KevinPhampn/Up-iPA/releases/download/ipa/Voloco.HAHiOS_8.12.2.ipa"
+        },
 
-     {
+        {
+            "iconURL": "https://play-lh.googleusercontent.com/1DVQGOCTupC2KkN0mel4Y7xLI6OqYOmp1cs93lBJjF9aUHK9laa91r3n0O8XVUTKc84",
+            "name": "EnhanceFox (làm nét ảnh mờ)",
+            "version": "7.0.0",
+            "description": "- Unlocked Premium \n- Chỉnh sửa ảnh mờ và làm nét \n-⚠️This App Cracked By HoangAnh⚠️",
+            "downloadURL": "https://github.com/KevinPhampn/Up-iPA/releases/download/ipa/EnhanceFox.HAHiOS_7.0.0.ipa"
+        },
+
+        {
             "iconURL": "https://raw.githubusercontent.com/WeansHHN/hackstore/main/apiJS/Image/fb.png",
             "name": "Facebook Wolf",
             "version": "446.0.0",
@@ -166,14 +182,6 @@
             "version": "4.4.0",
             "description": "Chặn quảng cáo.",
             "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/AdGuard.Pro_4.4.0_1672794128.ipa"
-        },
-
-        {
-            "iconURL": "https://hhnipa.github.io/img/vlc.png",
-            "name": "Voloco",
-            "version": "7.7.1",
-            "description": "Unlockpro App.",
-            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/Voloco_7.7.1_1672193894.ipa"
         },
 
         {
