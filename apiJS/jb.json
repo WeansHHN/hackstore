@@ -78,6 +78,14 @@
             "version": "1.0.9-i",
             "description": "Jailbreak không cần root iOS <=15.1 cho một số thiết bị và một số phiên bản. thêm phần bù?",
             "downloadURL": "https://github.com/pwned4ever/Freya15/releases/download/v1.0.9-i/Freya15.ipa"
+        },
+
+        {
+            "iconURL": "https://www.imghippo.com/i/PEwcS1708326632.jpg",
+            "name": "Def1nit3lyN0tAJa1lbr3akTool",
+            "version": "1.0.1",
+            "description": "Hỗ trợ: \n* Jailbreak Rootless Arm64 từ 16.0 - 16.6.1. \n* A10, A11, v.v.",
+            "downloadURL": "https://github.com/KpwnZ/Def1nit3lyN0tAJa1lbr3akTool/releases/tag/v1.0.1"
         }
     ]
 }
