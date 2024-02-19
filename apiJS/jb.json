@@ -1,6 +1,14 @@
 {
     "apps": [
         {
+            "iconURL": "https://ellekit.space/dopamine/assets/icon.png",
+            "name": "Dopamine",
+            "version": "2.0.5",
+            "description": "Hỗ trợ: \n* Jailbreak Rootless arm64 and arm64e cho iOS 15.0 - 16.6.1. \n* A9 - A16 và M1 - M2.",
+            "downloadURL": "https://github.com/opa334/Dopamine/releases/latest/download/Dopamine.ipa"
+        },
+        
+        {
             "iconURL": "https://raw.githubusercontent.com/WeansHHN/troll/main/icon/BootStrapBeta.JPG",
             "name": "Bootstrap",
             "version": "1.1",
@@ -46,14 +54,6 @@
             "version": "2.1.5.2",
             "description": "Bản beta công khai iOS 15.0-15.4.1, bẻ khóa bán không dây",
             "downloadURL": "https://github.com/NotDarkn/XinaA15/releases/download/2.1.5.2/XinaA12.2.1.5.2.ipa"
-        },
-
-        {
-            "iconURL": "https://ellekit.space/dopamine/assets/icon.png",
-            "name": "Dopamine",
-            "version": "1.1.11",
-            "description": "Jailbreak arm64e không root cho iOS 15.0 - 15.4.1.",
-            "downloadURL": "https://github.com/opa334/Dopamine/releases/download/1.1.11/Dopamine.tipa"
         },
 
         {
