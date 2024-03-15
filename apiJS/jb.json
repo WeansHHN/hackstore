@@ -3,25 +3,25 @@
         {
             "iconURL": "https://ellekit.space/dopamine/assets/icon.png",
             "name": "Dopamine",
-            "version": "2.0.5",
+            "version": "2.0.11",
             "description": "Hỗ trợ: \n* Jailbreak Rootless arm64 and arm64e cho iOS 15.0 - 16.6.1. \n* A9 - A16 và M1 - M2.",
-            "downloadURL": "https://github.com/opa334/Dopamine/releases/latest/download/Dopamine.ipa"
+            "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.0.11/Dopamine.tipa"
         },
         
         {
             "iconURL": "https://raw.githubusercontent.com/WeansHHN/troll/main/icon/BootStrapBeta.JPG",
             "name": "Bootstrap",
-            "version": "1.1",
+            "version": "1.2.1",
             "description": "Một bootstrap đầy đủ tính năng dành cho ios14.0-17.0, A8-A17,M1+M2. (hiện đang được thử nghiệm trên ios15.0~ios17.0)",
-            "downloadURL": "https://github.com/roothide/Bootstrap/releases/download/1.1/Bootstrap.tipa"
+            "downloadURL": "https://github.com/roothide/Bootstrap/releases/download/1.2.1/Bootstrap.tipa"
         },
 
         {
             "iconURL": "https://raw.githubusercontent.com/hrtowii/Serotonin/A12restart/artwork/serotonin-precomposed.png",
             "name": "Serotonin",
-            "version": "1.2.0",
+            "version": "1.2.1",
             "description": "(Not/Semi)-Jailbreak dùng với Bootstrap cho A12+",
-            "downloadURL": "https://github.com/mineek/Serotonin/releases/download/1.2.0/Serotonin-1.2.0.tipa"
+            "downloadURL": "https://github.com/mineek/Serotonin/releases/download/1.2.1/Serotonin.tipa"
         },
 
         {
@@ -69,7 +69,7 @@
             "name": "NekoJB",
             "version": "0.1.0 Beta 5",
             "description": "Jailbreak Rootless. Hỗ trợ tất cả các thiết bị arm64 chạy iOS 15.0 - 15.8 (iPhone 6S - iPhone X) đều được hỗ trợ. Tuy nhiên, bạn cần thiết lập jailbreak Rootless bằng Palera1n để jailbreak lại bằng meo.",
-            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Hackstore2/nekojb-0.1.0-beta-5.ipa"
+            "downloadURL": "https://nekojb.hhls.xyz/nekojb-0.1.0-beta5.ipa"
         },
       
         {
