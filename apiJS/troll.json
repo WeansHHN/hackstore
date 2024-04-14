@@ -25,6 +25,14 @@
         },
 
         {
+            "iconURL": "https://github.com/alfiecg24/TrollInstallerX/raw/main/Resources/Icon.png",
+            "name": "TrollInstallerX",
+            "version": "1.0.2",
+            "description": "TrollInstallerX hỗ trợ tất cả các thiết bị chạy iOS 14.0 - 16.6.1, cả arm64 và arm64e.",
+            "downloadURL": "https://github.com/alfiecg24/TrollInstallerX/releases/download/1.0.2/TrollInstallerX.ipa"
+        },
+
+        {
             "iconURL": "https://pbs.twimg.com/profile_images/1120870317319053313/x7u1wDn5_400x400.jpg",
             "name": "Misaka",
             "version": "8.2.4",
@@ -33,11 +41,11 @@
         },
 
         {
-            "iconURL": "https://private-user-images.githubusercontent.com/102235607/292650709-0feaa3eb-2c27-4cc0-9fa8-704db9f0a40f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDU0MTIzOTksIm5iZiI6MTcwNTQxMjA5OSwicGF0aCI6Ii8xMDIyMzU2MDcvMjkyNjUwNzA5LTBmZWFhM2ViLTJjMjctNGNjMC05ZmE4LTcwNGRiOWYwYTQwZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDExNlQxMzM0NTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05NzRjN2M2MWMzNjZlMmZkZjk1NTQ4MTQwNDliNGM2NThhOWI4NTIxMmVkNzMzODdhMDhjZDBhOWFkYTI0ZmIyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.0tkUFNWfbG2VHRnSxSwWeoe2inqRZ9OZzQEuFLRjg4M",
+            "iconURL": "https://raw.githubusercontent.com/c22dev/Geranium/main/Geranium/Icons/Beta.png",
             "name": "Geranium",
-            "version": "1.0.4",
+            "version": "1.1.2",
             "description": "Để cài đặt Geranium, bạn phải có TrollStore 1.3 trở lên và thiết bị chạy iOS 15 trở lên (nếu TrollStore hỗ trợ). Tải xuống bản phát hành mới nhất từ ​​tab phát hành và mở nó trong TrollStore. Sau đó, hãy làm theo quá trình thiết lập! Nếu bạn đang dùng TrollStore 2.0.9, vui lòng cập nhật lên phiên bản mới nhất từ ​​ứng dụng TrollStore, nếu không ứng dụng này sẽ không hoạt động.",
-            "downloadURL": "https://github.com/c22dev/Geranium/releases/download/1.0.4/Geranium.tipa"
+            "downloadURL": "https://github.com/c22dev/Geranium/releases/download/1.1.2/Geranium.tipa"
         },
 
         {
@@ -65,27 +73,11 @@
         },
 
         {
-            "iconURL": "https://esign.yyyue.xyz/ESignLogo200.png",
-            "name": "Esign TrollStore",
-            "version":"4.8.2",
-            "description": "Esign này dành cho TrollStore",
-            "downloadURL": "https://github.com/KevinPhampn/Up-iPA/releases/download/ipa/Esign_TrollStore_4.8.2.ipa"
-        },
-        
-        {
-            "iconURL": "https://scontent.xx.fbcdn.net/v/t1.15752-9/419536105_2099135650438906_4862064658012294516_n.jpg?stp=dst-jpg_p206x206&_nc_cat=109&ccb=1-7&_nc_sid=510075&_nc_ohc=gwaQvU-Od1sAX94hXJr&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdRpGttq81ooHWFpbfl_FzyBEEBaVznGLJCgWACtsHNoQg&oe=65D8CEB0",
-            "name": "Musi",
-            "version": "6.2.34",
-            "description": "- Đã Unlocked không quảng cáo \n- Cho phép lưu nhạc vào mục yêu thích \n- Cho phép bạn tạo Playlist cho riêng mình \n- Cho phép bạn tự tạo Album cho riêng mình \n- Kích hoạt bộ chỉnh âm, v.v. \n❗️ Tôi cảm thấy ứng dụng này tốt hơn Spotify rất nhiều ❗️ \n⚠️This App Cracked By HoangAnh⚠️",
-            "downloadURL": "https://github.com/KevinPhampn/Up-iPA/releases/download/ipa/Musi.HAHiOS_6.2.34.ipa"
-        },
-
-        {
-            "iconURL": "https://pbs.twimg.com/profile_images/710607196497678336/gcxQW6z3_400x400.jpg",
-            "name": "ShadowRocket",
-            "version":"New Version",
-            "description": "- Đã mua trên với giá 2.99$",
-            "downloadURL": "https://github.com/KevinPhampn/Up-iPA/releases/download/ipa/Shadowrocket.tipa"
+            "iconURL": "https://play-lh.googleusercontent.com/-tYjpaHytoQDxyBuVxZWy-xFvMGrUloekbO5HSw3ZDOTyedZRM3gys_oS_IDDYd7Jgk=w240-h480-rw",
+            "name": "JetSign ",
+            "version":"2.5.4",
+            "description": "JetSign là công cụ cài đặt Esign++",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Hackstore2/JetSign_2.5.4.ipa"
         },
 
         {
@@ -162,34 +154,10 @@
 
         {
             "iconURL": "https://github.com/leminlimez/Helium/blob/main/src/assets/credits/leminlimez.png?raw=true",
-            "name": "Helium (Việt hóa)",
-            "version": "2.0.2",
+            "name": "Helium",
+            "version": "3.2.5",
             "description": "Helium là một hệ thống tiện ích Thanh trạng thái mới dành cho TrollStore và các thiết bị đã bẻ khóa.",
-            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Hackstore2/HeliumVH_.2.0.2.tipa"
-        },
-
-        {
-            "iconURL": "https://github.com/leminlimez/Helium/blob/main/src/assets/credits/leminlimez.png?raw=true",
-            "name": "Helium (Chữ trắng)",
-            "version": "2.0.2",
-            "description": "Helium là một hệ thống tiện ích Thanh trạng thái mới dành cho TrollStore và các thiết bị đã bẻ khóa.",
-            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/Helium.V2.0.2.tipa"
-        },
-
-        {
-            "iconURL": "https://github.com/leminlimez/Helium/blob/main/src/assets/credits/leminlimez.png?raw=true",
-            "name": "Helium (Chữ đen)",
-            "version": "1.1.2",
-            "description": "Helium là một hệ thống tiện ích Thanh trạng thái mới dành cho TrollStore và các thiết bị đã bẻ khóa.",
-            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/HackStoreIPA/Helium_1.1.2-.Ch.Den.tipa"
-        },
-
-        {
-            "iconURL": "https://github.com/leminlimez/Helium/blob/main/src/assets/credits/leminlimez.png?raw=true",
-            "name": "Helium (Chữ tím)",
-            "version": "1.1.2",
-            "description": "Helium là một hệ thống tiện ích Thanh trạng thái mới dành cho TrollStore và các thiết bị đã bẻ khóa.",
-            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/HackStoreIPA/Helium_1.1.2-Ch.Tim.tipa"
+            "downloadURL": "https://github.com/leminlimez/Helium/releases/download/v3.2.5/Helium.tipa"
         },
 
         {
@@ -211,17 +179,17 @@
         {
             "iconURL": "https://github.com/WeansHHN/troll/blob/main/icon/C7E22BD4-17C9-4910-BAB6-53FC38C96DB4.png?raw=true",
             "name": "Picasso",
-            "version": "3.0.1",
+            "version": "3.1",
             "description": "Ứng dụng tinh chỉnh iphone, khai thác lỗ hổng bảo mật KFD và MDC.",
-            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/Picasso_v3.0.1.ipa"
+            "downloadURL": "https://github.com/sourcelocation/Picasso-v3/releases/download/3.1/Picasso.v3.1-signed.ipa"
         },
 
         {
             "iconURL": "https://senumy.com/wp-content/uploads/2023/10/PureKFD_logo.png",
             "name": "PureKFD",
-            "version": "5.0 Beta Landa",
+            "version": "5.2",
             "description": "Ứng dụng tinh chỉnh iphone, khai thác lỗ hổng bảo mật KFD và MDC.",
-            "downloadURL": "https://github.com/PureKFD/PureKFD/releases/download/5.0beta_landa/purekfd.ipa"
+            "downloadURL": "https://github.com/PureKFD/PureKFD/releases/download/5.2/purekfd.ipa"
         },
 
         {
