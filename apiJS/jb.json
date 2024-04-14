@@ -4,7 +4,7 @@
             "iconURL": "https://ellekit.space/dopamine/assets/icon.png",
             "name": "Dopamine",
             "version": "2.0.11",
-            "description": "Hỗ trợ: \n* Jailbreak Rootless arm64 and arm64e cho iOS 15.0 - 16.6.1. \n* A9 - A16 và M1 - M2.",
+            "description": "Bẻ khóa arm64e không root cho iOS 15.0 - 16.5.1 (arm64e) và iOS 15.0 - 16.6.1 (arm64). Thông tin chi tiết sẽ sớm được cập nhật tại đây.",
             "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.0.11/Dopamine.tipa"
         },
         
