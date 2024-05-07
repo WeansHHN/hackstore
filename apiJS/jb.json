@@ -3,9 +3,17 @@
         {
             "iconURL": "https://ellekit.space/dopamine/assets/icon.png",
             "name": "Dopamine",
-            "version": "2.0.11",
+            "version": "2.1.4",
             "description": "Bẻ khóa arm64e không root cho iOS 15.0 - 16.5.1 (arm64e) và iOS 15.0 - 16.6.1 (arm64). Thông tin chi tiết sẽ sớm được cập nhật tại đây.",
-            "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.0.11/Dopamine.tipa"
+            "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.1.4/Dopamine.tipa"
+        },
+
+        {
+            "iconURL": "https://ellekit.space/dopamine/assets/icon.png",
+            "name": "Dopamine Tàu",
+            "version": "2.1.4",
+            "description": "Bẻ khóa arm64e không root cho iOS 15.0 - 16.5.1 (arm64e) và iOS 15.0 - 16.6.1 (arm64). Thông tin chi tiết sẽ sớm được cập nhật tại đây.",
+            "downloadURL": "https://github.com/w2599/Dopamine/releases/download/2.1.4/Dopamine_blacklist_2.1.4_1715084614.tipa"
         },
         
         {
