@@ -486,6 +486,13 @@
             "version":"3.0.3 Vh",
             "description": "Fix IPCC",
             "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Hackstore2/IPCC.Replacer.3.0.3.Vh.tipa"
+        },        
+        {
+            "iconURL": "https://github.com/WeansHHN/troll/blob/main/icon/Esign.jpeg",
+            "name": "Esign+ Installer for MDC&KDF",
+            "version": "Unkown",
+            "description": "Ứng dụng hỗ trợ cài đặt Esign+ cho MDC và DKF",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Hackstore2/ESign._Install_KFD_MDC.ipa"
         }
     ]
 }
