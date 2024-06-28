@@ -1,0 +1,27 @@
+{
+    "apps": [
+        {
+            "iconURL": "https://raw.githubusercontent.com/WeansHHN/hackstore/main/apiJS/Image/TrollStore.jpg",
+            "name": "TrollInstallerMDC",
+            "version": "1.0.5",
+            "description": "Ứng dụng dùng để cài đặt TrollStore, khai thác lỗ hổng bảo mật MDC, dành cho iOS 15 - iOS 15.7.1 / iOS 16.0 - iOS 16.1.2",
+            "downloadURL": "https://dhinakg.github.io/files/apps/TrollInstallerMDC/TrollInstallerMDC.ipa"
+        },
+
+        {
+            "iconURL": "https://raw.githubusercontent.com/WeansHHN/hackstore/main/apiJS/Image/TrollStore.jpg",
+            "name": "TrollMisaka",
+            "version": "2.0 Beta",
+            "description": "Ứng dụng dùng để cài đặt TrollStore, Supported 15.7.2- 15.8.1",
+            "downloadURL": "https://github.com/straight-tamago/TrollMisaka/releases/download/2.0-Beta/TrollMisaka-v2.0.ipa"
+        },
+
+         {
+            "iconURL": "https://raw.githubusercontent.com/WeansHHN/hackstore/main/apiJS/Image/TrollStar%2C.jpg",
+            "name": "TrollStar",
+            "version": "1.1",
+            "description": "Công cụ tìm bản vá động thử nghiệm hiện đang hoạt động (bản vá chỉ hoạt động với khai thác Landa/physpuppet), vì vậy...\n\nĐược cho là hoạt động:\niOS/iPadOS 16.0-16.6.1",
+            "downloadURL": "https://github.com/34306/TrollStar/releases/download/1.1/TrollStar_1.1.ipa"
+        }
+    ]
+}
