@@ -33,6 +33,14 @@
         },
 
         {
+            "iconURL": "https://media.havoc.app/669b9b9a4e505bb0dae0841f?w=3840&q=75",
+            "name": "TrollFools",
+            "version": "3.7-42",
+            "description": "Nội dung chỉnh sửa tại chỗ với Insert_dylib và ChOma.",
+            "downloadURL": "https://github.com/Lessica/TrollFools/releases/download/v3.7-42/TrollFools_3.7-42.tipa"
+        },
+
+        {
             "iconURL": "https://pbs.twimg.com/profile_images/1120870317319053313/x7u1wDn5_400x400.jpg",
             "name": "Misaka",
             "version": "8.2.4",
